@@ -10,6 +10,10 @@ if (module.parent) {
     dept: args.d || args.dept
   }, function(err, courses) {
     if (err) throw err;
-    else console.log(courses);
+    else {
+      var json = JSON.stringify(courses, null, 4);
+      process.stdout.write(json+'\n');
+      process.exit(0);
+    }
   });
 }
