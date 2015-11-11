@@ -4,11 +4,9 @@ var courses = require('../../../fixtures/2016-winter-raw-prereq');
 var pp = require('../../../lib/uci/prereq-parser');
 
 describe('prereq parser', function() {
-  it.only("parses reqs for IN4MATX 113", function() {
+  it("parses reqs for IN4MATX 113", function() {
     var course = _.find(courses, { id: 'In4matx113' })
     var reqs = pp.parse(course.prerequisite)
-    console.log(JSON.stringify(reqs, null, 2));
-    return
     expect(reqs).to.deep.eq({
       "type": "exactly",
       "aggregateBy": null,
@@ -40,7 +38,6 @@ describe('prereq parser', function() {
   it('parses reqs for In4matx122', function() {
     var course = _.find(courses, { id: 'In4matx122' })
     var reqs = pp.parse(course.prerequisite)
-    return
     expect(reqs).to.deep.eq({
       "type": "exactly",
       "aggregateBy": null,
