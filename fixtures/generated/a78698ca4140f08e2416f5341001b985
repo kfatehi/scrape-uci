@@ -132,7 +132,7 @@
 	    :  <a href="https://www.reg.uci.edu/staff/contactus.html">Contact Us</a>
 	    :  <a href="https://www.reg.uci.edu/addl/faq.html">FAQ</a>
 	</p>
-        <p id="date-now">Tuesday, November 10, 2015<!--#echo var="DATE_LOCAL" --></p>
+        <p id="date-now">Wednesday, November 11, 2015<!--#echo var="DATE_LOCAL" --></p>
     </div>
 
     <map name="RegBannerMain" id="RegBannerMain">
