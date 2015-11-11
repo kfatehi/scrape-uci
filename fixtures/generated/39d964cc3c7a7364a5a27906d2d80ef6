@@ -1,0 +1,1029 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+
+<head>
+<!-- %2fperl%2fWebSoc; 145-80 -->
+
+<title>Schedule of Classes</title>
+<link rev="made" href="mailto:garru%40pleasenospam.uci.edu%20%28Garr%20Updegraff%29" />
+    <meta name="robots" content="nofollow" />
+    
+    <link rel="stylesheet" href="/css/banner750.css" type="text/css" title="Reg Banner Style" />
+    <!--[if IE]>
+	<link rel="stylesheet" href="https://www.reg.uci.edu/css/banner-ie-fix.css" type="text/css" title="Reg IE Banner Style" />
+    <![endif]-->
+
+<style type="text/css">
+<!--/* <![CDATA[ */
+		/* bodyfontsize */
+
+		.course-list{
+		    color:black;
+		}
+
+		.course-list table {
+		    empty-cells: show;
+		}
+		/* Blue bar separates course list from next course title */
+		.course-list tr.blue-bar td{
+		    background-color: navy;
+		    padding: 0;
+		    height: 4px;
+		}
+		/* White bar separates college and department comments from next section. */
+		.course-list tr.white-bar td{
+		    background-color: white;
+		    padding: 0;
+		    height: 3px;
+		}
+		.course-list tr.white-bar-thick td{
+		    background-color: white;
+		    padding: 0;
+		    height: 6px;
+		}
+
+		.course-list tr.college-title td{
+		    border-top: solid white 0.8em;
+		    border-bottom: solid white 3px;
+		    padding: 0.45em;
+		    background-color: black;
+		    white-space: nowrap;
+		    text-align: center;
+		    color: white;
+		    font-family: Arial,Helvetica,sans-serif;
+		    font-size:130%;
+		    font-weight: bold
+		}
+
+		.course-list tr.college-comment td,
+			.course-list tr.dept-comment td,
+			.course-list tr.num-range-comment td,
+			.course-list tr.ccode-range-comment td{
+		    border: solid navy 3px;
+		    padding: 0 1.5em 0 1.5em;
+		    background-color: #E7E7E7;
+		    text-align: left;
+		    color: black;
+		    font: 80% Times New Roman,Times,serif;
+		}
+		.course-list tr.college-comment td{
+		    border-color: black;
+		}
+		.course-list tr.num-range-comment td{
+		    background-color: #efe7ef;
+		}
+		.course-list tr.college-comment p,
+			.course-list tr.dept-comment p,
+			.course-list tr.num-range-comment p,
+			.course-list tr.ccode-range-comment p{
+		    margin: 0.5em 0 0.5em 0;
+		}
+
+		.course-list tr p.comment-heading {
+		    word-spacing: 0.2em;
+			/* letter-spacing: 1px; */
+		    font-size: 125%;
+		    font-weight: bold;
+		}
+
+		.course-list tr.dept-title td{
+		    border-top: solid white 2px;
+		    border-bottom: solid white 3px;
+		    padding-left: 0.7em;
+		    background-color: navy;
+		    white-space: nowrap;
+		    color: white;
+		    font-family: sans-serif;
+		    font-size: 100%;
+		    font-weight: bold
+		}
+		.course-list tr.dept-title a:link, .course-list tr.dept-title a:visited{
+		    color: white;
+		}
+
+		.course-list input{ font-size:63%; }
+		.course-list td{ color:black; font-size:70%; }
+		.course-list td td{ color:black; font-size:100%; }
+		.course-list th{ color:black; font-size:70%; }
+		.course-list td.Pct100 { font-size:100%;  }  /* need unscaled size to protect inner tables. */
+		.course-list td.CourseTitle { color:black; font-size:100%; }
+		.course-list td td.Comments { color:black; font-size:80%;  }
+		.course-summary dd{ font-size:80%; }
+
+
+/* ]]> */-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body>
+
+
+    
+    <!-- HTML for Registrar Main Banner. -->
+    <!-- Insert this after "<body>" tag. -->
+    <!-- Used with "/css/banner750all.css" or "/css/banner750.css" -->
+
+    <!--#config timefmt="%A, %B %e, %Y" -->  <!-- Use "man strftime" to see formatting options. -->
+
+    <div id="contact-date">
+        <p><a href="https://www.reg.uci.edu/staff/contactus.html"><img src="https://www.reg.uci.edu/images/envelope_icon_sm.gif" alt="Tiny envelope image" /></a>
+	    :  <a href="https://www.reg.uci.edu/staff/contactus.html">Contact Us</a>
+	    :  <a href="https://www.reg.uci.edu/addl/faq.html">FAQ</a>
+	</p>
+        <p id="date-now">Wednesday, November 11, 2015<!--#echo var="DATE_LOCAL" --></p>
+    </div>
+
+    <map name="RegBannerMain" id="RegBannerMain">
+	<area shape="rect" coords="65,5,380,43"  href="https://www.reg.uci.edu/"  alt="Office of the Registrar" />
+	<area shape="rect" coords="65,44,380,73"  href="http://www.uci.edu/"  alt="UC Irvine home page" />
+    </map>
+    <div id="reg-banner-container">
+	<img src="https://www.reg.uci.edu/images/off_reg.jpg" usemap="#RegBannerMain" alt="Registrar banner" />
+	<div id="srchbox">
+		<form id="searchbox_004296503812929449051:cnncxej5ijo" action="http://www.google.com/search">
+			<h3>Search Registrar site:</h3>
+			<input id="srchbox-button" type="image" name="Search" value="Search" class="srchbutton" src="https://www.reg.uci.edu/images/btnGo2.gif" alt="Go" />
+			<input type="hidden" name="cx" value="004296503812929449051:cnncxej5ijo" />
+			<input type="hidden" name="cof" value="FORID:0" />
+			<input id="srchbox-input" name="q" type="text" />
+		</form>
+ 	</div>  <!-- Close div id="srchbox" -->
+    </div>  <!-- Close div id="reg-banner-container" -->
+
+    <table id="reg-nav-bar" cellspacing="0" cellpadding="0" >
+      <tr>
+	<td><a href="http://www.uci.edu">UCI Home</a></td>
+	<td>:</td>
+	<td><a href="https://www.reg.uci.edu/perl/WebSoc">Schedule of Classes</a></td>
+	<td>:</td>
+	<td><a href="https://www.reg.uci.edu/registrar/soc/webreg.html">WebReg</a></td>
+	<td>:</td>
+	<td><a href="https://www.reg.uci.edu/access/student/welcome/">StudentAccess</a></td>
+	<td>:</td>
+	<td><a href="https://www.reg.uci.edu/webadmin/staff/welcome/">WebAdmin</a></td>
+      </tr>
+    </table>
+
+
+    <div class="title-bar">
+	<h1>Schedule of Classes search results</h1>
+    </div>
+
+
+<h3 style="margin-bottom: 0;">Search Criteria:</h3>
+<ul style="margin-top: 0; list-style-position: inside;">    <li>Department: CAMPREC</li>
+    <li>Exclude cancelled courses</li>
+
+</ul>
+
+<h3 style="display: inline;">Winter Quarter, 2016</h3> &nbsp; &nbsp; Registration for term begins on Monday, November 16, 2015
+
+    <div class="course-list">
+
+<table cellpadding="3" cellspacing="0" width="600" border="0">
+	<tr class="college-title"><td colspan="17">Office of Campus Recreation</td></tr>
+	<tr class="dept-title"><td colspan="17">Campus Recreation</td></tr>
+
+	<tr class="dept-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Campus Recreation department comments:</p>
+		<p>All Campus Recreation Activity classes are scheduled to start on Monday, January 4.</p>
+		<p>Participants must register and pay for classes through Campus Recreation website or Service Desk. Enrollment through WebReg is not an official enrollment in the class.</p>
+		<p>All activity classes are offered without credit through the Department of Campus Recreation.  For fee based classes, please contact the Anteater Recreation Center for a complete fee schedule.</p>
+		<p>Some classes do not meet the full 10 week session, please check with Campus Recreation Services Desk for additional information.</p>
+		<p>The first session of each class will meet at the Anteater Recreation Center.  For Stand-up Paddle Board and Kayaking class locations please pick-up directions at the Campus Recreation Services Desk.  Students must pay activity fees prior to the first meeting in order to guarantee their place in class.</p>
+		<p>There will be no Sailing classes for the Winter quarter. Please look for Sailing to return in Spring at the new Marina Park facility!</p>
+	    </td>
+	</tr>
+	<tr class="white-bar-thick"><td colspan="17"></td></tr>
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85000 - 85068:</p>
+		<p><b>Fitness</b></p>
+		<p>There are no fees required for the Drop-in Group Fitness classes listed below.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>TABATA BOOT CAMP</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85000</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">00</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Th &nbsp; 12:00-12:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85003</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">03</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">F &nbsp;  5:30- 6:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>PUMP &amp; SCULPT</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85008</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">8</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">HAMILTON, M.</td><td  nowrap="nowrap">MW &nbsp; 12:00-12:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85010</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">10</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">MW &nbsp;  4:00- 4:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85012</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">12</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MENDOZA, C.</td><td  nowrap="nowrap">MW &nbsp;  7:00- 7:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85014</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">14</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">COLENO, M.</td><td  nowrap="nowrap">Tu &nbsp;  6:30- 7:20 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85016</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">16</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">BROWN, M.</td><td  nowrap="nowrap">TuTh &nbsp;  6:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85018</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">18</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Sa &nbsp;  9:00- 9:50 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>SIMPLE STEP</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85026</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">26</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MENDOZA, C.</td><td  nowrap="nowrap">MW &nbsp;  6:00- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>ZUMBA STEP</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85028</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">28</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Tu &nbsp;  5:30- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85030</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">30</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">W &nbsp;  8:30- 9:20 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85032</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">32</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Sa &nbsp;  8:30- 9:20 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>ZUMBA</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85034</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">034</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CROKER, K.</td><td  nowrap="nowrap">MW &nbsp;  5:00- 5:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85038</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">038</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Sa &nbsp; 10:00-10:50 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>ABS &amp; THIGHS</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85040</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">40</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MENDOZA, C.</td><td  nowrap="nowrap">MW &nbsp;  6:30- 6:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85044</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">44</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Th &nbsp; 12:30-12:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>STRETCH &amp; ROLL</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85046</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">46</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">SHERON, A.</td><td  nowrap="nowrap">M &nbsp;  6:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>OMNI BALL</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85050</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">50</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">SHERON, A.</td><td  nowrap="nowrap">M &nbsp;  5:30- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85052</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">52</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">SHERON, A.</td><td  nowrap="nowrap">F &nbsp;  9:30-10:20 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>TIDAL WAVE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85055</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">55</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Tu &nbsp; 12:00-12:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85058</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">58</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">DODGE-THEWS, D.</td><td  nowrap="nowrap">W &nbsp;  9:30-10:20 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">20</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>STUDIO CYCLING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85060</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">60</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">MW &nbsp;  5:00- 5:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">15</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85063</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">63</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">TuTh &nbsp;  6:30- 7:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">15</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85065</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">65</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Th &nbsp;  6:30- 7:20 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">15</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85068</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">68</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">F &nbsp; 12:00-12:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">15</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85070 - 85136:</p>
+		<p><b>Recreational Dance</b></p>
+		<p>The Recreational Dance classes listed below are offered for a fee.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>ARGENTINE TANGO</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85070</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">70</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">EISMAN, J.</td><td  nowrap="nowrap">Tu &nbsp;  9:30-10:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>BALLROOM DANCE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85074</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">74</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">EISMAN, J.</td><td  nowrap="nowrap">W &nbsp;  8:00- 8:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>BELLY DANCE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85077</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">77</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MANZANO, L.</td><td  nowrap="nowrap">W &nbsp;  7:00- 8:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ZONE</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>BREAKING -BEG</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85085</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">085</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">NGUYEN, J.</td><td  nowrap="nowrap">M &nbsp;  9:00- 9:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ZONE</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>BREAK DANCE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85090</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">90</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">W &nbsp;  9:00- 9:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>HIP HOP - BEG</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85100</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">100</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MAR, M.</td><td  nowrap="nowrap">M &nbsp;  8:00- 8:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ZONE</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>HIP HOP</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85108</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">108</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CHATO, C.</td><td  nowrap="nowrap">Th &nbsp;  7:30- 8:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>HOUSE DANCE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85112</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">112</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TRAN, M.</td><td  nowrap="nowrap">Th &nbsp;  9:00- 9:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ZONE</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>JAZZ DANCE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85116</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">116</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CHATO, C.</td><td  nowrap="nowrap">Su &nbsp;  6:00- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>LYRICAL DANCE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85122</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">122</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CHATO, C.</td><td  nowrap="nowrap">Su &nbsp;  7:30- 8:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>SALSA DANCE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85130</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">130</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">EISMAN, J.</td><td  nowrap="nowrap">Tu &nbsp;  8:30- 9:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>WEST COAST SWING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85136</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">136</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">KRIVOSHEYA, D.</td><td  nowrap="nowrap">W &nbsp;  8:30- 9:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ZONE</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85150 - 85240:</p>
+		<p>The <b>Specialty Fitness</b> classes listed below are offered for a fee.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>IRON EATERS</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85150</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">150</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">M &nbsp;  5:30- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FIELD</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85153</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">153</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Tu &nbsp;  5:30- 6:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FIELD</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85156</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">156</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">W &nbsp;  5:30- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FIELD</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85158</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">158</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Th &nbsp;  5:30- 6:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FIELD</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">40</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>LAUGH FIT</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85162</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">162</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Tu &nbsp;  4:00- 4:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>YOGA</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85166</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">166</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>PERSONAL TRAINING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85240</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">240</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FITLAB</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85250 - 85290:</p>
+		<p><b>Cooking</b></p>
+		<p>All cooking classes are offered for a fee.  Cooking class sessions change quarterly, please contact Campus Recreation Services for additional information. Classes are scheduled to meet in the ARC Test Kitchen.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>COOKING - HEALTHY</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85250</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">250</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">VANROO, J.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> KITCHN</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">18</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>COOKING - INTL</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85260</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">260</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">VANROO, J.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> KITCHN</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">18</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>COOKING - 101</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85270</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">270</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">VANROO, J.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> KITCHN</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">18</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>COOKING - HOLIDAY</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85280</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">280</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">VANROO, J.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> KITCHN</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">18</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>COOKING - DESSERT</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85290</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">290</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">VANROO, J.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> KITCHN</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">18</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85310 - 85385:</p>
+		<p><b>Individual Sports</b></p>
+		<p>All sports classes listed below are offered for a fee.  Classes are scheduled to meet on the ARC Field Complex.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>GOLF-BEGINNING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85310</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">310</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">GILLIS, M.</td><td  nowrap="nowrap">M &nbsp;  2:30- 4:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FIELD</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">18</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>TENNIS-BEGINNING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85365</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">365</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">MW &nbsp;  5:30- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> TENNIS</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85370</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">370</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">TuTh &nbsp;  6:30- 7:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> TENNIS</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>TENNIS-INTERMEDIATE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85380</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">380</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">MW &nbsp;  6:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> TENNIS</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85385</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">385</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">TuTh &nbsp;  5:30- 6:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> TENNIS</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85435 - 85500:</p>
+		<p><b>Aquatics &amp; Safety</b></p>
+		<p>Aquatics and Safety classes are offered for a fee. The CPR + 1st Aid one day certification classes will meet in the ARC Classroom, contact the Campus Recreation Services Desk for specific dates.</p>
+		<p>There are no fees required for Aqua Fitness and Sports Medicine Classes.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>SWIMMING-BEG</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85435</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">435</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">MW &nbsp;  4:00- 4:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> POOL</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85440</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">440</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">TuTh &nbsp;  4:00- 4:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> POOL</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>SWIMMING-BEG/INT</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85445</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">445</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">MW &nbsp;  4:30- 5:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> POOL</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85450</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">450</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">TuTh &nbsp;  4:30- 5:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> POOL</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>INTRO SPORTS MED</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85474</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">474</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">PLUEMER, J.</td><td  nowrap="nowrap">W &nbsp;  5:30- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=CH" target="_blank">CH</a> SPMED</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>ADVANCED SPORTS MED</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85476</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">476</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">PLUEMER, J.</td><td  nowrap="nowrap">W &nbsp;  7:00- 7:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=CH" target="_blank">CH</a> SPMED</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>CPR &amp; 1ST AID</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85500</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">500</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">LAM, T.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> KITCHN</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">20</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85530 - 85670:</p>
+		<p><b>Specialty Sports</b></p>
+		<p>The Specialty Sports classes listed below are offered for a fee. Rock Climbing classes meet for two week sessions.  Scuba class meets at Sea Stallion Dive Shop.  Check with Campus Recreation Services for more details. Gymnastics classes meet in the ARC Conference Room for the first session.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>ACRO FLOW</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85530</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">530</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">AU, J.</td><td  nowrap="nowrap">W &nbsp;  8:30- 9:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>FENCING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85609</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">609</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">KHAMEH SEIFI, A.</td><td  nowrap="nowrap">W &nbsp;  7:00- 8:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ANNEX</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>GYMNASTICS-BEG</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85612</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">612</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Tu &nbsp;  7:30- 8:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap">OFF CAMPUS</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">20</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>GUITAR</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85615</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">615</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FORRESTER, L.</td><td  nowrap="nowrap">Tu &nbsp;  7:30- 8:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>TAIKO DRUMMING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85618</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">618</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">M &nbsp;  5:30- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ANNEX</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>ROCK CLIMB I</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85620</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">620</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">Tu &nbsp;  5:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85626</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">626</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">W &nbsp;  9:30-10:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 2 &nbsp; &nbsp; <font face="sans-serif"><b>ROCK CLIMB I</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85636</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">636</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">M &nbsp;  5:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85640</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">640</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">Tu &nbsp;  9:30-10:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 3 &nbsp; &nbsp; <font face="sans-serif"><b>ROCK CLIMB I</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85648</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">648</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">W &nbsp;  5:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85650</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">650</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">Th &nbsp;  9:30-10:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 4 &nbsp; &nbsp; <font face="sans-serif"><b>ROCK CLIMB I</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85654</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">654</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">M &nbsp;  9:30-10:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85656</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">656</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">Tu &nbsp;  5:30- 7:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 3 &nbsp; &nbsp; <font face="sans-serif"><b>TECHNIQUE CLIMB I</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85662</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">662</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">W &nbsp;  5:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 2 &nbsp; &nbsp; <font face="sans-serif"><b>TECHNIQUE CLIMB 2</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85666</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">666</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">Th &nbsp;  5:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>TECHNIQUE CLIMB 3</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85668</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">668</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TULLY, D.</td><td  nowrap="nowrap">F &nbsp;  5:30- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ROCK</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">9</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>SCUBA DIVING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85670</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">670</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Sa &nbsp; 10:00-11:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap">OFF CAMPUS</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">15</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85680 - 85800:</p>
+		<p><b>Martial Arts</b></p>
+		<p>There is a fee required for all Martial Arts classes listed below.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>AIKIDO</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85680</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">680</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">W &nbsp;  5:00- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>CAPOEIRA</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85685</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">685</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">BEGALLI, D.</td><td  nowrap="nowrap">F &nbsp;  5:00- 6:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ANNEX</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>CHINESE WRESTLING</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85688</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">688</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">HE, Q.</td><td  nowrap="nowrap">Su &nbsp;  7:00- 8:20p<br />M &nbsp;  9:00-10:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO<br /><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>FILIPINO ARTS</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85692</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">692</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Su &nbsp;  8:00- 9:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>IAIDO-JAPAN.SWORD</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85700</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">700</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">OTAGURO, D.</td><td  nowrap="nowrap">F &nbsp;  7:00- 9:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>JAPANESE KARATE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85710</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">710</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">NGUYEN, B.</td><td  nowrap="nowrap">TuTh &nbsp;  7:00- 8:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ANNEX</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>JIU JITSU BRAZILIAN</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85725</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">725</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Tu &nbsp;  6:00- 7:20p<br />Th &nbsp;  5:00- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO<br /><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>JIU JITSU-SELF DEF</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85735</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">735</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">W &nbsp;  8:30- 9:50p<br />Th &nbsp;  8:30- 9:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO<br /><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> FORUM</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>JUDO</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85740</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">740</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">LEBED, A.</td><td  nowrap="nowrap">M &nbsp;  7:30- 8:50p<br />F &nbsp;  6:30- 7:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO<br /><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>KENDO</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85750</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">750</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Tu &nbsp;  8:30- 9:50p<br />F &nbsp;  7:30- 8:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ZONE<br /><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ZONE</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>KRAV MAGA</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85755</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">755</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Tu &nbsp;  8:30-10:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ANNEX</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>KUNG FU</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85760</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">760</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">M &nbsp;  6:30- 8:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> ANNEX</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>MUAY THAI</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85772</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">772</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">HALL, D.</td><td  nowrap="nowrap">WTh &nbsp;  3:30- 4:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>TAEKWONDO</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85780</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">780</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">VO, K.</td><td  nowrap="nowrap">TuTh &nbsp;  7:30- 8:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">25</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>TAI CHI</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85790</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">790</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">LUH, B.</td><td  nowrap="nowrap">M &nbsp;  7:00- 8:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>WING CHUN</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85800</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">800</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">M &nbsp;  8:00- 9:20p<br />F &nbsp;  8:00- 9:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> SHOP<br /><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=ARC" target="_blank">ARC</a> STUDIO</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr class="ccode-range-comment">
+	    <td colspan="17">
+		<p class="comment-heading">Course Codes 85820 - 85896:</p>
+		<p><b>Boating</b></p>
+		<p>There is a fee required for all Kayaking classes listed below.  Kayaking class location please pick-up directions at the Campus Recreation Services Desk. Sailing and Paddle Board classes will resume in the Spring quarter.</p>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; CampRec &nbsp; 1 &nbsp; &nbsp; <font face="sans-serif"><b>KAYAKING-BEG</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">85820</td><td  nowrap="nowrap">Act</td><td bgcolor="#D5E5FF"  nowrap="nowrap">820</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">W &nbsp;  5:00- 7:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap">OFF CAMPUS</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">20</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">85825</td><td  nowrap="nowrap">Act</td><td bgcolor="#DDEEFF"  nowrap="nowrap">825</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">Su &nbsp; 10:00-11:50 </td><td bgcolor="#DDEEFF"  nowrap="nowrap">OFF CAMPUS</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">20</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">C</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+    </table>
+
+</div>
+
+<dl class="course-summary">
+    <dt>Total Classes Displayed: 96</dt>
+	<dd>Class web site links (listed in "<b>Web</b>" column, <font color="red"><i>/P</i></font> indicates password required) provided by <a href="http://eee.uci.edu/">EEE</a>.</dd>
+	<dd>&nbsp; &nbsp; &nbsp; &nbsp; To report a broken class link or a new course web site, use the EEE <a href="http://eee.uci.edu/report/">Report Page</a>.</dd>
+	<dd>Helpful links: &nbsp;
+	    <a href="/help/WebSoc-Columns.shtml" target="_blank"><b>Column Definitions</b></a>
+	    &nbsp; &nbsp; &nbsp; <a href="https://www.reg.uci.edu/uci/rooms/" target="_blank"><b>Building Abbreviations</b></a>
+	    &nbsp; &nbsp; &nbsp; <a href="http://www.uci.edu/campusmap" target="_blank"><b>Campus Map</b></a></dd>
+	<dd>Need a link to bookmark these results? &nbsp; <a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Dept=CAMPREC">MyWebSocResults</a></dd>
+</dl>
+    <dl>
+	<dt><b>Restriction Codes </b> from the '<b>Rstr</b>' column above:</dt>
+	<dd><b>C:</b> Fee required</dd>
+    </dl>
+
+
+    <p style="font-size: 0.8em; line-height: 150%;">
+	Questions or comments about this program?  Send email to <a href="mailto:registrar@uci.edu">registrar@uci.edu</a>
+	<br />
+	Questions about the course comments or data displayed?  Please contact the appropriate <a href="http://ps.uci.edu/~stuaff/ac.html">Department Counselor</a>
+	<br />
+	Schedule of Classes <em>(WebSOC)</em> version 3.2
+    </p>
+    <!-- HTML for Registrar contact info in footer. -->
+    <!-- Used with "/css/banner750.css"  -->
+
+    <div id="contact-footer">
+	<div id="footer-office-title">University Registrar</div>
+	<ul><li class="reg-email"><a href="mailto:registrar@uci.edu">registrar@uci.edu</a></li>
+	    <li>&bull;</li>
+	    <li>ph: (949) 824-6124</li>
+	    <li>&bull;</li>
+	    <li>fax: (949) 824-7896</li>
+	</ul>
+	<ul><li>University of California, Irvine</li>
+	    <li>&bull;</li> <li>215 Aldrich Hall</li>
+	    <li>&bull;</li> <li>Irvine, CA 92697-4975</li>
+	</ul>
+	<address id="footer-copyright">
+	    &copy; 2007 The Regents of the University of California.
+	    &nbsp; All Rights Reserved.
+	</address>
+    </div>
+
+</body>
+</html>

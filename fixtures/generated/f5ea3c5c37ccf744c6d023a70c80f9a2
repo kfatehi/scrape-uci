@@ -1,0 +1,1208 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+
+<head>
+<!-- %2fperl%2fWebSoc; 145-80 -->
+
+<title>Schedule of Classes</title>
+<link rev="made" href="mailto:garru%40pleasenospam.uci.edu%20%28Garr%20Updegraff%29" />
+    <meta name="robots" content="nofollow" />
+    
+    <link rel="stylesheet" href="/css/banner750.css" type="text/css" title="Reg Banner Style" />
+    <!--[if IE]>
+	<link rel="stylesheet" href="https://www.reg.uci.edu/css/banner-ie-fix.css" type="text/css" title="Reg IE Banner Style" />
+    <![endif]-->
+
+<style type="text/css">
+<!--/* <![CDATA[ */
+		/* bodyfontsize */
+
+		.course-list{
+		    color:black;
+		}
+
+		.course-list table {
+		    empty-cells: show;
+		}
+		/* Blue bar separates course list from next course title */
+		.course-list tr.blue-bar td{
+		    background-color: navy;
+		    padding: 0;
+		    height: 4px;
+		}
+		/* White bar separates college and department comments from next section. */
+		.course-list tr.white-bar td{
+		    background-color: white;
+		    padding: 0;
+		    height: 3px;
+		}
+		.course-list tr.white-bar-thick td{
+		    background-color: white;
+		    padding: 0;
+		    height: 6px;
+		}
+
+		.course-list tr.college-title td{
+		    border-top: solid white 0.8em;
+		    border-bottom: solid white 3px;
+		    padding: 0.45em;
+		    background-color: black;
+		    white-space: nowrap;
+		    text-align: center;
+		    color: white;
+		    font-family: Arial,Helvetica,sans-serif;
+		    font-size:130%;
+		    font-weight: bold
+		}
+
+		.course-list tr.college-comment td,
+			.course-list tr.dept-comment td,
+			.course-list tr.num-range-comment td,
+			.course-list tr.ccode-range-comment td{
+		    border: solid navy 3px;
+		    padding: 0 1.5em 0 1.5em;
+		    background-color: #E7E7E7;
+		    text-align: left;
+		    color: black;
+		    font: 80% Times New Roman,Times,serif;
+		}
+		.course-list tr.college-comment td{
+		    border-color: black;
+		}
+		.course-list tr.num-range-comment td{
+		    background-color: #efe7ef;
+		}
+		.course-list tr.college-comment p,
+			.course-list tr.dept-comment p,
+			.course-list tr.num-range-comment p,
+			.course-list tr.ccode-range-comment p{
+		    margin: 0.5em 0 0.5em 0;
+		}
+
+		.course-list tr p.comment-heading {
+		    word-spacing: 0.2em;
+			/* letter-spacing: 1px; */
+		    font-size: 125%;
+		    font-weight: bold;
+		}
+
+		.course-list tr.dept-title td{
+		    border-top: solid white 2px;
+		    border-bottom: solid white 3px;
+		    padding-left: 0.7em;
+		    background-color: navy;
+		    white-space: nowrap;
+		    color: white;
+		    font-family: sans-serif;
+		    font-size: 100%;
+		    font-weight: bold
+		}
+		.course-list tr.dept-title a:link, .course-list tr.dept-title a:visited{
+		    color: white;
+		}
+
+		.course-list input{ font-size:63%; }
+		.course-list td{ color:black; font-size:70%; }
+		.course-list td td{ color:black; font-size:100%; }
+		.course-list th{ color:black; font-size:70%; }
+		.course-list td.Pct100 { font-size:100%;  }  /* need unscaled size to protect inner tables. */
+		.course-list td.CourseTitle { color:black; font-size:100%; }
+		.course-list td td.Comments { color:black; font-size:80%;  }
+		.course-summary dd{ font-size:80%; }
+
+
+/* ]]> */-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body>
+
+
+    
+    <!-- HTML for Registrar Main Banner. -->
+    <!-- Insert this after "<body>" tag. -->
+    <!-- Used with "/css/banner750all.css" or "/css/banner750.css" -->
+
+    <!--#config timefmt="%A, %B %e, %Y" -->  <!-- Use "man strftime" to see formatting options. -->
+
+    <div id="contact-date">
+        <p><a href="https://www.reg.uci.edu/staff/contactus.html"><img src="https://www.reg.uci.edu/images/envelope_icon_sm.gif" alt="Tiny envelope image" /></a>
+	    :  <a href="https://www.reg.uci.edu/staff/contactus.html">Contact Us</a>
+	    :  <a href="https://www.reg.uci.edu/addl/faq.html">FAQ</a>
+	</p>
+        <p id="date-now">Wednesday, November 11, 2015<!--#echo var="DATE_LOCAL" --></p>
+    </div>
+
+    <map name="RegBannerMain" id="RegBannerMain">
+	<area shape="rect" coords="65,5,380,43"  href="https://www.reg.uci.edu/"  alt="Office of the Registrar" />
+	<area shape="rect" coords="65,44,380,73"  href="http://www.uci.edu/"  alt="UC Irvine home page" />
+    </map>
+    <div id="reg-banner-container">
+	<img src="https://www.reg.uci.edu/images/off_reg.jpg" usemap="#RegBannerMain" alt="Registrar banner" />
+	<div id="srchbox">
+		<form id="searchbox_004296503812929449051:cnncxej5ijo" action="http://www.google.com/search">
+			<h3>Search Registrar site:</h3>
+			<input id="srchbox-button" type="image" name="Search" value="Search" class="srchbutton" src="https://www.reg.uci.edu/images/btnGo2.gif" alt="Go" />
+			<input type="hidden" name="cx" value="004296503812929449051:cnncxej5ijo" />
+			<input type="hidden" name="cof" value="FORID:0" />
+			<input id="srchbox-input" name="q" type="text" />
+		</form>
+ 	</div>  <!-- Close div id="srchbox" -->
+    </div>  <!-- Close div id="reg-banner-container" -->
+
+    <table id="reg-nav-bar" cellspacing="0" cellpadding="0" >
+      <tr>
+	<td><a href="http://www.uci.edu">UCI Home</a></td>
+	<td>:</td>
+	<td><a href="https://www.reg.uci.edu/perl/WebSoc">Schedule of Classes</a></td>
+	<td>:</td>
+	<td><a href="https://www.reg.uci.edu/registrar/soc/webreg.html">WebReg</a></td>
+	<td>:</td>
+	<td><a href="https://www.reg.uci.edu/access/student/welcome/">StudentAccess</a></td>
+	<td>:</td>
+	<td><a href="https://www.reg.uci.edu/webadmin/staff/welcome/">WebAdmin</a></td>
+      </tr>
+    </table>
+
+
+    <div class="title-bar">
+	<h1>Schedule of Classes search results</h1>
+    </div>
+
+
+<h3 style="margin-bottom: 0;">Search Criteria:</h3>
+<ul style="margin-top: 0; list-style-position: inside;">    <li>Department: CHC/LAT</li>
+    <li>Exclude cancelled courses</li>
+
+</ul>
+
+<h3 style="display: inline;">Winter Quarter, 2016</h3> &nbsp; &nbsp; Registration for term begins on Monday, November 16, 2015
+
+    <div class="course-list">
+
+<table cellpadding="3" cellspacing="0" width="600" border="0">
+	<tr class="college-title"><td colspan="17">School of Social Sciences</td></tr>
+	<tr class="college-comment">
+	    <td colspan="17">
+		<p class="comment-heading">School of Social Sciences comments:</p>
+		<p><b>DROP:</b> The deadline to drop courses in the School of Social Sciences is the end of Week 2 by 5:00PM. Drops can be made in WebReg.</p>
+		<p><b>ADD:</b> The deadline to add courses in the School of Social Sciences is the end of week 2 by 5:00PM. Adds can be made in WebReg.</p>
+		<p><b>CHANGE:</b> The deadline to change grade option or variable units via WebReg for majors in the School of Social Sciences is the end of Week 2 by 5:00PM. Change of grade options or variable units beginning weeks 3-6 must be made through Student Access. <b>Courses for the School's math requirement and major requirements must be completed with letter grade only.</b></p>
+		<p>Due to the volume of majors and incoming new students, enrollment in some School of Social Sciences courses will be restricted to School or majors only until <b>WEDNESDAY, DECEMBER 9th by noon.</b></p>
+		<p>If you received AP credit or transferred courses that is considered a pre-req, please go to Social Sciences Undergraduate Student Affairs Office located in 1201 SBSG to be cleared to enroll in the desired course.</p>
+		<p>For courses with a &quot;B&quot; or &quot;X&quot; restriction, please contact the instructor of the course.</p>
+	    </td>
+	</tr>
+	<tr class="white-bar"><td colspan="17"></td></tr>
+	<tr class="dept-title"><td colspan="17">Chicano/Latino Studies</td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 64 &nbsp; &nbsp; <font face="sans-serif"><b>INTRO RACE&amp;ETHNICTY</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61010</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TESLER, M.</td><td  nowrap="nowrap">TuTh &nbsp; 12:30- 1:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/DBH1100.html" target="_blank">DBH 1100</a></td><td  nowrap="nowrap">Fri, Mar 18, 10:30-12:30pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">200</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61010">same</a> as <b>67100</b>&nbsp;Pol&nbsp;Sci&nbsp;61A,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61011</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">1</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />TESLER, M.</td><td  nowrap="nowrap">Tu &nbsp;  9:00- 9:50 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSTR100.html" target="_blank">SSTR 100</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61011">same</a> as <b>67101</b>&nbsp;Pol&nbsp;Sci&nbsp;61A,&nbsp;Dis&nbsp;1)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61012</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">2</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />TESLER, M.</td><td  nowrap="nowrap">Tu &nbsp; 11:00-11:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSTR100.html" target="_blank">SSTR 100</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61012">same</a> as <b>67102</b>&nbsp;Pol&nbsp;Sci&nbsp;61A,&nbsp;Dis&nbsp;2)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61013</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">3</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />TESLER, M.</td><td  nowrap="nowrap">W &nbsp; 12:00-12:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSTR100.html" target="_blank">SSTR 100</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61013">same</a> as <b>67103</b>&nbsp;Pol&nbsp;Sci&nbsp;61A,&nbsp;Dis&nbsp;3)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61014</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">4</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />TESLER, M.</td><td  nowrap="nowrap">Th &nbsp;  3:00- 3:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSTR100.html" target="_blank">SSTR 100</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61014">same</a> as <b>67104</b>&nbsp;Pol&nbsp;Sci&nbsp;61A,&nbsp;Dis&nbsp;4)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61015</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">5</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />TESLER, M.</td><td  nowrap="nowrap">Th &nbsp;  5:00- 5:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSTR100.html" target="_blank">SSTR 100</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">34</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61015">same</a> as <b>67105</b>&nbsp;Pol&nbsp;Sci&nbsp;61A,&nbsp;Dis&nbsp;5)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61016</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">6</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />TESLER, M.</td><td  nowrap="nowrap">Tu &nbsp;  3:00- 3:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/HH108.html" target="_blank">HH 108</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">24</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61016">same</a> as <b>67106</b>&nbsp;Pol&nbsp;Sci&nbsp;61A,&nbsp;Dis&nbsp;6)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 65 &nbsp; &nbsp; <font face="sans-serif"><b>ETHNIC &amp; IMMIG AMER</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61020</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FELICIANO, C.</td><td  nowrap="nowrap">MW &nbsp;  3:30- 4:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSLH100.html" target="_blank">SSLH 100</a></td><td  nowrap="nowrap">Mon, Mar 14, 4:00-6:00pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">300</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61020">same</a> as <b>69250</b>&nbsp;Sociol&nbsp;68A,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61021</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">1</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">Tu &nbsp;  9:00- 9:50 </td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61021">same</a> as <b>69251</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;1)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61022</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">2</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">Tu &nbsp; 10:00-10:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61022">same</a> as <b>69252</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;2)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61023</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">3</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">Tu &nbsp; 11:00-11:50 </td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61023">same</a> as <b>69253</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;3)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61024</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">4</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">Tu &nbsp;  2:00- 2:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61024">same</a> as <b>69254</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;4)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61025</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">5</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">Tu &nbsp;  3:00- 3:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61025">same</a> as <b>69255</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;5)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61026</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">6</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">W &nbsp; 11:00-11:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">33</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61026">same</a> as <b>69256</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;6)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61027</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">7</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">W &nbsp; 12:00-12:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">34</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61027">same</a> as <b>69257</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;7)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61028</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">8</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">W &nbsp;  1:00- 1:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">34</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61028">same</a> as <b>69258</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;8)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61029</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">9</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />FELICIANO, C.</td><td  nowrap="nowrap">W &nbsp;  2:00- 2:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">34</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61029">same</a> as <b>69259</b>&nbsp;Sociol&nbsp;68A,&nbsp;Dis&nbsp;9)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 102W &nbsp; &nbsp; <font face="sans-serif"><b>RESEARCH SEMINAR</b></font>&nbsp; &nbsp; &nbsp; (<a target='_blank' href='https://www.reg.uci.edu/cob/prrqcgi?term=201603&amp;dept=CHC%2FLAT&amp;action=view_by_term#102W'>Prerequisites</a>)
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61100</td><td  nowrap="nowrap">Sem</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">ENRIQUEZ, L.<br />STAFF</td><td  nowrap="nowrap">TuTh &nbsp;  3:30- 4:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL145.html" target="_blank">SSL 145</a></td><td  nowrap="nowrap">Tue, Mar 15, 4:00-6:00pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 129 &nbsp; &nbsp; <font face="sans-serif"><b>LATINA/O SPIRTUALTY</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61120</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MORALES, J.</td><td  nowrap="nowrap">MWF &nbsp; 11:00-11:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL270.html" target="_blank">SSL 270</a></td><td  nowrap="nowrap">Fri, Mar 18, 8:00-10:00am</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">100</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 132B &nbsp; &nbsp; <font face="sans-serif"><b>20TH C CHICANAS/OS</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61200</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">TuTh &nbsp;  9:30-10:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/DBH1500.html" target="_blank">DBH 1500</a></td><td  nowrap="nowrap">Thu, Mar 17, 8:00-10:00am</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">65</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=26730">same</a> as <b>26730</b>&nbsp;History&nbsp;151B,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 148W &nbsp; &nbsp; <font face="sans-serif"><b>RACE/ETHNIC REL US</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61300</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">ROBNETT, B.</td><td  nowrap="nowrap">TuTh &nbsp;  2:00- 3:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SST120.html" target="_blank">SST 120</a></td><td  nowrap="nowrap">Thu, Mar 17, 1:30-3:30pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">49</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and L</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61300">same</a> as <b>69490</b>&nbsp;Sociol&nbsp;167AW,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 153 &nbsp; &nbsp; <font face="sans-serif"><b>X-CULT URBAN GANGS</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61400</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">VIGIL, J.</td><td  nowrap="nowrap">W &nbsp;  7:00- 9:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSPA1100.html" target="_blank">SSPA 1100</a></td><td  nowrap="nowrap">Wed, Mar 16, 7:00-9:00pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">150</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=52280">same</a> as <b>52280</b>&nbsp;Crm/Law&nbsp;C156,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 166 &nbsp; &nbsp; <font face="sans-serif"><b>CHICANO MOVEMENT</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61510</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TORRES, R.</td><td  nowrap="nowrap">M &nbsp;  7:00- 9:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL228.html" target="_blank">SSL 228</a></td><td  nowrap="nowrap">Mon, Mar 14, 7:00-9:00pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">104</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=53145">same</a> as <b>53145</b>&nbsp;PP&amp;D&nbsp;177,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 168 &nbsp; &nbsp; <font face="sans-serif"><b>CH/LAT SOCIAL PSYCH</b></font>&nbsp; &nbsp; &nbsp; (<a target='_blank' href='https://www.reg.uci.edu/cob/prrqcgi?term=201603&amp;dept=CHC%2FLAT&amp;action=view_by_term#168'>Prerequisites</a>)
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61520</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CAMPOS, B.</td><td  nowrap="nowrap">TuTh &nbsp;  8:00- 9:20 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL248.html" target="_blank">SSL 248</a></td><td  nowrap="nowrap">Tue, Mar 15, 8:00-10:00am</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">110</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and L</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=54460">same</a> as <b>54460</b>&nbsp;Psy&nbsp;Beh&nbsp;192Q,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 169 &nbsp; &nbsp; <font face="sans-serif"><b>UNDOCUMENTD IMM EXP</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61530</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">ENRIQUEZ, L.<br />DESIPIO, L.</td><td  nowrap="nowrap">TuTh &nbsp; 12:30- 1:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/PSCB120.html" target="_blank">PSCB 120</a></td><td  nowrap="nowrap">Fri, Mar 18, 10:30-12:30pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">85</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 170 &nbsp; &nbsp; <font face="sans-serif"><b>CHICANO/LATINO FAM</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61600</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CASTELLANOS, J.<br />STAFF</td><td  nowrap="nowrap">W &nbsp;  4:00- 6:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL140.html" target="_blank">SSL 140</a></td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">75</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">N</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61600">same</a> as <b>68680</b>&nbsp;Psych&nbsp;174H,&nbsp;Lec&nbsp;A; &nbsp; and <b>70360</b>&nbsp;Soc&nbsp;Sci&nbsp;165,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 176 &nbsp; &nbsp; <font face="sans-serif"><b>RACE GENDER&amp;SCIENCE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61650</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">JENKS, A.</td><td  nowrap="nowrap">MWF &nbsp; 10:00-10:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/ELH100.html" target="_blank">ELH 100</a></td><td  nowrap="nowrap">Mon, Mar 14, 10:30-12:30pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">300</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25380">same</a> as <b>25380</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Lec&nbsp;A; &nbsp; and <b>60385</b>&nbsp;Anthro&nbsp;128B,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61651</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">1</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">Tu &nbsp;  3:00- 3:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SST238.html" target="_blank">SST 238</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25381">same</a> as <b>25381</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;1; &nbsp; and <b>60386</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;1)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61652</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">2</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">M &nbsp; 12:00-12:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL129.html" target="_blank">SSL 129</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25382">same</a> as <b>25382</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;2; &nbsp; and <b>60387</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;2)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61653</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">3</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">Tu &nbsp; 11:00-11:50 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL129.html" target="_blank">SSL 129</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25383">same</a> as <b>25383</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;3; &nbsp; and <b>60388</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;3)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61654</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">4</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">W &nbsp;  6:00- 6:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL145.html" target="_blank">SSL 145</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25384">same</a> as <b>25384</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;4; &nbsp; and <b>60389</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;4)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61655</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">5</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">Th &nbsp;  4:00- 4:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/HH112.html" target="_blank">HH 112</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25385">same</a> as <b>25385</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;5; &nbsp; and <b>60390</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;5)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61656</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">6</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">M &nbsp;  5:00- 5:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL145.html" target="_blank">SSL 145</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25386">same</a> as <b>25386</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;6; &nbsp; and <b>60391</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;6)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61657</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">7</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">W &nbsp;  5:00- 5:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SST238.html" target="_blank">SST 238</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25387">same</a> as <b>25387</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;7; &nbsp; and <b>60392</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;7)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61658</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">8</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">F &nbsp;  9:00- 9:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/HH105.html" target="_blank">HH 105</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25388">same</a> as <b>25388</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;8; &nbsp; and <b>60393</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;8)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61659</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">9</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />JENKS, A.</td><td  nowrap="nowrap">F &nbsp;  1:00- 1:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSPA1165.html" target="_blank">SSPA 1165</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=25389">same</a> as <b>25389</b>&nbsp;Gen&amp;Sex&nbsp;188A,&nbsp;Dis&nbsp;9; &nbsp; and <b>60394</b>&nbsp;Anthro&nbsp;128B,&nbsp;Dis&nbsp;9)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 178A &nbsp; &nbsp; <font face="sans-serif"><b>MEDICAL ANTHRO</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61670</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MONTOYA, M.</td><td  nowrap="nowrap">TuTh &nbsp;  5:00- 6:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSH100.html" target="_blank">SSH 100</a></td><td  nowrap="nowrap">Thu, Mar 17, 4:00-6:00pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">257</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60420">same</a> as <b>60420</b>&nbsp;Anthro&nbsp;134A,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61671</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">1</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">M &nbsp; 12:00-12:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SST238.html" target="_blank">SST 238</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60421">same</a> as <b>60421</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;1)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61672</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">2</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">W &nbsp; 12:00-12:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SST238.html" target="_blank">SST 238</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60422">same</a> as <b>60422</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;2)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61673</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">3</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">F &nbsp; 12:00-12:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSTR100.html" target="_blank">SSTR 100</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60423">same</a> as <b>60423</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;3)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61674</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">4</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">Tu &nbsp;  4:00- 4:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/HH112.html" target="_blank">HH 112</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60424">same</a> as <b>60424</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;4)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61675</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">5</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">Th &nbsp;  4:00- 4:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSTR100.html" target="_blank">SSTR 100</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60425">same</a> as <b>60425</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;5)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61676</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">6</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">Th &nbsp;  2:00- 2:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/HICF100L.html" target="_blank">HICF 100L</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">35</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60426">same</a> as <b>60426</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;6)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61677</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">7</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">M &nbsp; 10:00-10:50 </td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SST122.html" target="_blank">SST 122</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60427">same</a> as <b>60427</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;7)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61678</td><td  nowrap="nowrap">Dis</td><td bgcolor="#D5E5FF"  nowrap="nowrap">8</td><td  nowrap="nowrap">0</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">W &nbsp; 10:00-10:50 </td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL145.html" target="_blank">SSL 145</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60428">same</a> as <b>60428</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;8)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61679</td><td  nowrap="nowrap">Dis</td><td bgcolor="#DDEEFF"  nowrap="nowrap">9</td><td  nowrap="nowrap">0</td><td bgcolor="#DDEEFF"  nowrap="nowrap">STAFF<br />MONTOYA, M.</td><td  nowrap="nowrap">F &nbsp;  1:00- 1:50p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL206.html" target="_blank">SSL 206</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">30</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=60429">same</a> as <b>60429</b>&nbsp;Anthro&nbsp;134A,&nbsp;Dis&nbsp;9)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 183 &nbsp; &nbsp; <font face="sans-serif"><b>MULTICULTRL ED K-12</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61700</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">LIN, J.<br />STAFF</td><td  nowrap="nowrap">TuTh &nbsp; 11:00-12:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/HH178.html" target="_blank">HH 178</a></td><td  nowrap="nowrap">Tue, Mar 15, 10:30-12:30pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">139</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=12200">same</a> as <b>12200</b>&nbsp;Educ&nbsp;124,&nbsp;Lec&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61705</td><td  nowrap="nowrap">Lec</td><td bgcolor="#DDEEFF"  nowrap="nowrap">B</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">SENGUPTA-IRVIN, T.</td><td  nowrap="nowrap">TuTh &nbsp;  2:00- 3:20p</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SSL290.html" target="_blank">SSL 290</a></td><td  nowrap="nowrap">Thu, Mar 17, 1:30-3:30pm</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">109</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr >
+	    <td  bgcolor="#DDEEFF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#DDEEFF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=12205">same</a> as <b>12205</b>&nbsp;Educ&nbsp;124,&nbsp;Lec&nbsp;B)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#DDEEFF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 189 &nbsp; &nbsp; <font face="sans-serif"><b>ACCESS &amp; EDUC POL</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61710</td><td  nowrap="nowrap">Lec</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">STAFF</td><td  nowrap="nowrap">MW &nbsp;  7:00- 8:20p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://www.classrooms.uci.edu/GAC/SE101.html" target="_blank">SE 101</a></td><td  nowrap="nowrap">Mon, Mar 14, 7:00-9:00pm</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">56</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=61710">same</a> as <b>70720</b>&nbsp;Soc&nbsp;Sci&nbsp;189,&nbsp;Lec&nbsp;F)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; H190B &nbsp; &nbsp; <font face="sans-serif"><b>HONORS FIELD RESRCH</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61800</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CAMPOS, B.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61801</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">B</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">CASAVANTES BRA, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61802</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">C</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">DESIPIO, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61803</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">D</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">ENRIQUEZ, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61804</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">E</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FELICIANO, C.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61805</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">F</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">FERNANDEZ, R.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61806</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">G</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FLORES, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61807</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">H</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">GONZALEZ, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61808</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">I</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MONTOYA, M.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61809</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">J</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">MORALES, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61810</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">K</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">ROSAS, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61811</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">L</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">RUIZ, V.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">A and B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 198 &nbsp; &nbsp; <font face="sans-serif"><b>DIRECTED GRP STUDY</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61830</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">1-4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CAMPOS, B.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61831</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">B</td><td  nowrap="nowrap">1-4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">CASAVANTES BRA, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61832</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">C</td><td  nowrap="nowrap">1-4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">DESIPIO, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61833</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">D</td><td  nowrap="nowrap">1-4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">ENRIQUEZ, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61834</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">E</td><td  nowrap="nowrap">1-4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FELICIANO, C.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61835</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">F</td><td  nowrap="nowrap">1-4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">FERNANDEZ, R.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61836</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">G</td><td  nowrap="nowrap">1-4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FLORES, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61837</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">H</td><td  nowrap="nowrap">1-4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">GONZALEZ, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61838</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">I</td><td  nowrap="nowrap">1-4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MONTOYA, M.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61839</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">J</td><td  nowrap="nowrap">1-4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">MORALES, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61840</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">K</td><td  nowrap="nowrap">1-4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">ROSAS, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61841</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">L</td><td  nowrap="nowrap">1-4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">RUIZ, V.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">10</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 199 &nbsp; &nbsp; <font face="sans-serif"><b>INDIVIDUAL STUDY</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61850</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CAMPOS, B.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61851</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">B</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">CASAVANTES BRA, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61852</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">C</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">DESIPIO, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61853</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">D</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">ENRIQUEZ, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61854</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">E</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FELICIANO, C.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61855</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">F</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">FERNANDEZ, R.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61856</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">G</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FLORES, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61857</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">H</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">GONZALEZ, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61858</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">I</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MONTOYA, M.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61859</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">J</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">MORALES, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61860</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">K</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">ROSAS, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">8</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61861</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">L</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">RUIZ, V.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 210B &nbsp; &nbsp; <font face="sans-serif"><b>CUL HIS LAT MD CARE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff">
+	    <td>&nbsp;</td>
+	    <td class="Pct100" colspan="15">
+		<table border="1" align="center" bgcolor="#EfE7Ef" cellpadding="3" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; Enrollment restricted to School of Medicine students.
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61905</td><td  nowrap="nowrap">Sem</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">2</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MONTOYA, M.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">15</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 211B &nbsp; &nbsp; <font face="sans-serif"><b>LATINO MEDICAL CARE</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#fff0ff">
+	    <td>&nbsp;</td>
+	    <td class="Pct100" colspan="15">
+		<table border="1" align="center" bgcolor="#EfE7Ef" cellpadding="3" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; Enrollment restricted to School of Medicine students.
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61910</td><td  nowrap="nowrap">Sem</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">2</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CAMPOS, B.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">15</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 289 &nbsp; &nbsp; <font face="sans-serif"><b>CROSSING BOARDERS</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61925</td><td  nowrap="nowrap">Sem</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">WU, J.</td><td  nowrap="nowrap">W &nbsp;  2:00- 4:50p</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="https://eee.uci.edu/toolbox/roomfinder/room.php?building_abbr=HG" target="_blank">HG</a> 3301</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">12</td><td align="right" nowrap="nowrap">0 / 0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr  bgcolor="#FFFFCC">
+	    <td  bgcolor="#D5E5FF">&nbsp;</td> 
+	    <td>&nbsp;</td> 
+	    <td  bgcolor="#D5E5FF" class="Pct100" colspan="13">
+		<table border="1" align="center" bgcolor="#f0f0f7" cellpadding="1" width="100%">
+		    <tr><td class="Comments" align="left">
+			    &nbsp; &nbsp; (<a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Xlist=21860">same</a> as <b>21860</b>&nbsp;AsianAm&nbsp;201,&nbsp;Sem&nbsp;A; &nbsp; and <b>27030</b>&nbsp;History&nbsp;290,&nbsp;Tut&nbsp;A)
+			</td>
+		    </tr>
+		</table>
+	    </td>
+	    <td>&nbsp;</td> <td  bgcolor="#D5E5FF">&nbsp;</td>
+	</tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 290 &nbsp; &nbsp; <font face="sans-serif"><b>DISSERTATION RESRCH</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61950</td><td  nowrap="nowrap">Res</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CAMPOS, B.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61951</td><td  nowrap="nowrap">Res</td><td bgcolor="#DDEEFF"  nowrap="nowrap">B</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">CASAVANTES BRA, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61952</td><td  nowrap="nowrap">Res</td><td bgcolor="#D5E5FF"  nowrap="nowrap">C</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">DESIPIO, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61953</td><td  nowrap="nowrap">Res</td><td bgcolor="#DDEEFF"  nowrap="nowrap">D</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">ENRIQUEZ, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61954</td><td  nowrap="nowrap">Res</td><td bgcolor="#D5E5FF"  nowrap="nowrap">E</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FELICIANO, C.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61955</td><td  nowrap="nowrap">Res</td><td bgcolor="#DDEEFF"  nowrap="nowrap">F</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">FERNANDEZ, R.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61956</td><td  nowrap="nowrap">Res</td><td bgcolor="#D5E5FF"  nowrap="nowrap">G</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FLORES, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61957</td><td  nowrap="nowrap">Res</td><td bgcolor="#DDEEFF"  nowrap="nowrap">H</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">GONZALEZ, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61958</td><td  nowrap="nowrap">Res</td><td bgcolor="#D5E5FF"  nowrap="nowrap">I</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MONTOYA, M.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61959</td><td  nowrap="nowrap">Res</td><td bgcolor="#DDEEFF"  nowrap="nowrap">J</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">MORALES, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61960</td><td  nowrap="nowrap">Res</td><td bgcolor="#D5E5FF"  nowrap="nowrap">K</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">ROSAS, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61961</td><td  nowrap="nowrap">Res</td><td bgcolor="#DDEEFF"  nowrap="nowrap">L</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">RUIZ, V.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+
+	<tr bgcolor="#fff0ff" valign="top"><td class="CourseTitle" colspan="17" nowrap="nowrap">&nbsp; Chc/Lat &nbsp; 299 &nbsp; &nbsp; <font face="sans-serif"><b>INDEPENDENT STUDY</b></font>
+	    </td>
+	</tr>
+	<tr bgcolor="#E7E7E7" align="left">
+	    <th title="Code = Course code" align="center">Code</th><th title="Type = Course type">Type</th><th title="Sec = Section">Sec</th><th>Units</th><th>Instructor</th><th>Time</th><th>Place</th><th>Final</th><th title="Max = Maximum enrollment allowed">Max</th><th title="Enr = Current course enrollment" align="center">Enr</th><th title="WL = Current waiting list" align="center">WL</th><th title="Req = Enrollment requests">Req</th><th title="Nor = Slots reserved for new students">Nor</th><th title="Rstr = Enrollment restrictions">Rstr</th><th>Textbooks</th><th title="Web = Course website">Web</th><th>Status</th>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61970</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">A</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">CAMPOS, B.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61971</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">B</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">CASAVANTES BRA, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61972</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">C</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">DESIPIO, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61973</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">D</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">ENRIQUEZ, L.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61974</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">E</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FELICIANO, C.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61975</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">F</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">FERNANDEZ, R.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61976</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">G</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">FLORES, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61977</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">H</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">GONZALEZ, G.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61978</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">I</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">MONTOYA, M.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61979</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">J</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">MORALES, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top" bgcolor="#FFFFCC"><td bgcolor="#D5E5FF"  nowrap="nowrap">61980</td><td  nowrap="nowrap">Tut</td><td bgcolor="#D5E5FF"  nowrap="nowrap">K</td><td  nowrap="nowrap">4</td><td bgcolor="#D5E5FF"  nowrap="nowrap">ROSAS, A.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#D5E5FF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#D5E5FF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#D5E5FF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+	<tr valign="top"><td bgcolor="#DDEEFF"  nowrap="nowrap">61981</td><td  nowrap="nowrap">Tut</td><td bgcolor="#DDEEFF"  nowrap="nowrap">L</td><td  nowrap="nowrap">4</td><td bgcolor="#DDEEFF"  nowrap="nowrap">RUIZ, V.</td><td  nowrap="nowrap"> &nbsp;  &nbsp; TBA</td><td bgcolor="#DDEEFF"  nowrap="nowrap">TBA</td><td  nowrap="nowrap">&nbsp; &nbsp; TBA</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">5</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">n/a</td><td align="right" nowrap="nowrap">0</td><td bgcolor="#DDEEFF" align="right" nowrap="nowrap">0</td><td  nowrap="nowrap">B and K</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><a href="http://book.uci.edu/ePOS?this_category=76&amp;store=446&amp;form=shared3/gm/main.html&amp;design=446"  target="_blank">Bookstore</a></td><td  nowrap="nowrap">&nbsp;</td><td bgcolor="#DDEEFF"  nowrap="nowrap"><b><font color="green">OPEN</font></b></td></tr>
+
+	<tr class="blue-bar" bgcolor="navy"><td colspan="17"></td></tr>
+    </table>
+
+</div>
+
+<dl class="course-summary">
+    <dt>Total Classes Displayed: 112</dt>
+	<dd>Class web site links (listed in "<b>Web</b>" column, <font color="red"><i>/P</i></font> indicates password required) provided by <a href="http://eee.uci.edu/">EEE</a>.</dd>
+	<dd>&nbsp; &nbsp; &nbsp; &nbsp; To report a broken class link or a new course web site, use the EEE <a href="http://eee.uci.edu/report/">Report Page</a>.</dd>
+	<dd>Values in the "Enr" column like "0 / 0" show "section / joint" enrollment totals for cross-listed courses.</dd>
+	<dd>Helpful links: &nbsp;
+	    <a href="/help/WebSoc-Columns.shtml" target="_blank"><b>Column Definitions</b></a>
+	    &nbsp; &nbsp; &nbsp; <a href="https://www.reg.uci.edu/uci/rooms/" target="_blank"><b>Building Abbreviations</b></a>
+	    &nbsp; &nbsp; &nbsp; <a href="http://www.uci.edu/campusmap" target="_blank"><b>Campus Map</b></a></dd>
+	<dd>Need a link to bookmark these results? &nbsp; <a href="https://www.reg.uci.edu/perl/WebSoc?YearTerm=2016-03&amp;ShowFinals=1&amp;ShowComments=1&amp;Dept=CHC%2FLAT">MyWebSocResults</a></dd>
+</dl>
+    <dl>
+	<dt><b>Restriction Codes </b> from the '<b>Rstr</b>' column above:</dt>
+	<dd><b>A:</b> Prerequisite required</dd>
+	<dd><b>B:</b> Authorization required</dd>
+	<dd><b>K:</b> Graduate only</dd>
+	<dd><b>L:</b> Major only</dd>
+	<dd><b>N:</b> School major only</dd>
+    </dl>
+
+
+    <p style="font-size: 0.8em; line-height: 150%;">
+	Questions or comments about this program?  Send email to <a href="mailto:registrar@uci.edu">registrar@uci.edu</a>
+	<br />
+	Questions about the course comments or data displayed?  Please contact the appropriate <a href="http://ps.uci.edu/~stuaff/ac.html">Department Counselor</a>
+	<br />
+	Schedule of Classes <em>(WebSOC)</em> version 3.2
+    </p>
+    <!-- HTML for Registrar contact info in footer. -->
+    <!-- Used with "/css/banner750.css"  -->
+
+    <div id="contact-footer">
+	<div id="footer-office-title">University Registrar</div>
+	<ul><li class="reg-email"><a href="mailto:registrar@uci.edu">registrar@uci.edu</a></li>
+	    <li>&bull;</li>
+	    <li>ph: (949) 824-6124</li>
+	    <li>&bull;</li>
+	    <li>fax: (949) 824-7896</li>
+	</ul>
+	<ul><li>University of California, Irvine</li>
+	    <li>&bull;</li> <li>215 Aldrich Hall</li>
+	    <li>&bull;</li> <li>Irvine, CA 92697-4975</li>
+	</ul>
+	<address id="footer-copyright">
+	    &copy; 2007 The Regents of the University of California.
+	    &nbsp; All Rights Reserved.
+	</address>
+    </div>
+
+</body>
+</html>

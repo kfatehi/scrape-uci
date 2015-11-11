@@ -3,10 +3,12 @@ var _ = require('lodash');
 var courses = require('../../../fixtures/2016-winter-raw-prereq');
 var pp = require('../../../lib/uci/prereq-parser');
 
-describe.only('prereq parser', function() {
-  it("parses reqs for IN4MATX 113", function() {
+describe('prereq parser', function() {
+  it.only("parses reqs for IN4MATX 113", function() {
     var course = _.find(courses, { id: 'In4matx113' })
     var reqs = pp.parse(course.prerequisite)
+    console.log(JSON.stringify(reqs, null, 2));
+    return
     expect(reqs).to.deep.eq({
       "type": "exactly",
       "aggregateBy": null,
@@ -38,6 +40,7 @@ describe.only('prereq parser', function() {
   it('parses reqs for In4matx122', function() {
     var course = _.find(courses, { id: 'In4matx122' })
     var reqs = pp.parse(course.prerequisite)
+    return
     expect(reqs).to.deep.eq({
       "type": "exactly",
       "aggregateBy": null,
@@ -58,6 +61,36 @@ describe.only('prereq parser', function() {
           "IN4MATX 101",
           "COMPSCI 141",
           "CSE 141"
+        ],
+        "select": 1
+      }]
+    })
+  });
+
+  it('parses reqs for In4matx131', function() {
+    var course = _.find(courses, { id: 'In4matx131' })
+    var reqs = pp.parse(course.prerequisite)
+    return
+    expect(reqs).to.deep.eq({
+      "type": "exactly",
+      "aggregateBy": null,
+      "select": 1,
+      "elements": [{
+        "type": "exactly",
+        "aggregateBy": null,
+        "elements": [
+          "IN4MATX 41",
+          "I&C SCI 10",
+          "I&C SCI 21",
+          "I&C SCI H21",
+          "CSE 21",
+          "ENGR 10",
+          "ENGRMAE 10",
+          "EECS 10",
+          "I&C SCI 31",
+          "CSE 41",
+          "AP COMP SCI A",
+          "AP COMP SCI AB"
         ],
         "select": 1
       }]

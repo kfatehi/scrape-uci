@@ -1,0 +1,22 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "date": "Wed, 11 Nov 2015 20:16:45 GMT",
+    "server": "Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1m DAV/2",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "set-cookie": [
+      "BIGipServer~part_reg_809~pool_reg_http_cobol=2412299136.20480.0000; path=/"
+    ],
+    "transfer-encoding": "chunked"
+  },
+  "url": "https://www.reg.uci.edu:443/cob/prrqcgi?term=201603&dept=PLASTIC&action=view_by_term",
+  "time": 4135,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "host": "www.reg.uci.edu"
+    }
+  }
+}

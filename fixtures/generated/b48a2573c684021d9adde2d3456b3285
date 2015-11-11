@@ -1,0 +1,150 @@
+
+            <html>
+            
+<head>
+<!-- %2fcob%2fprrqcgi%3fterm%3d201603%26dept%3dSOCECOL%26action%3dview_by_term; 143-80 -->
+
+                <title>
+                    UCI Prerequisites
+                </title>
+                <link rel="stylesheet" href="/css/banner750.css" type="text/css" title="Reg Banner Style" />
+                <!--[if IE]>
+                    <link rel="stylesheet" href="https://www.reg.uci.edu/css/banner-ie-fix.css" type="text/css" title="Reg IE Banner Style" />
+                <![endif]-->
+                <style>
+                    td.course { vertical-align: top; font-size: 10pt; color: blue; }
+                    td.title { vertical-align: top; font-size: 10pt; color: red; }
+                    td.prereq { vertical-align: top; font-size: 10pt; color: black; }
+                    td.small_font { font-size: 9pt; }
+                    td.error_message { text-align: center;
+                                       color: red;
+                                       font-size: 16px;
+                                       font-weight: bold; }
+                    td.normal_message { text-align: center;
+                                        color: black;
+                                        font-size: 16px;
+                                        font-weight: bold; }
+                </style>
+                <meta name="robots" content="noarchive">
+                <meta name="robots" content="noindex, nofollow">
+                <meta name="googlebot" content="noodp">
+                <meta name="slurp" content="noarchive">
+                <meta name="slurp" content="noindex, nofollow">
+                <meta name="slurp" content="noydir">
+                <meta name="slurp" content="noodp">
+                <meta name="msnbot" content="noindex, nofollow">
+                <meta name="msnbot" content="noarchive">
+                <meta name="msnbot" content="noodp">
+                <meta name="teoma" content="noindex, nofollow">
+                <meta name="teoma" content="noarchive">
+            </head>
+            <body>
+                <div align="left">
+                    <table width="660px">
+                        <tr>
+                            <td align="center">    <!-- HTML for Registrar Main Banner. -->
+    <!-- Insert this after "<body>" tag. -->
+    <!-- Used with "/css/banner750all.css" or "/css/banner750.css" -->
+
+    <!--#config timefmt="%A, %B %e, %Y" -->  <!-- Use "man strftime" to see formatting options. -->
+
+    <div id="contact-date">
+        <p><a href="https://www.reg.uci.edu/staff/contactus.html"><img src="https://www.reg.uci.edu/images/envelope_icon_sm.gif" alt="Tiny envelope image" /></a>
+            :  <a href="https://www.reg.uci.edu/staff/contactus.html">Contact Us</a>
+            :  <a href="https://www.reg.uci.edu/addl/faq.html">FAQ</a>
+        </p>
+        <p id="date-now">&nbsp;<!--#echo var="DATE_LOCAL" --></p>
+    </div>
+
+    <map name="RegBannerMain" id="RegBannerMain">
+        <area shape="rect" coords="65,5,380,43"  href="https://www.reg.uci.edu/"  alt="Office of the Registrar" />
+        <area shape="rect" coords="65,44,380,73"  href="http://www.uci.edu/"  alt="UC Irvine home page" />
+    </map>
+    <div id="reg-banner-container">
+        <img src="https://www.reg.uci.edu/images/off_reg.jpg" usemap="#RegBannerMain" alt="Registrar banner" />
+        <div id="srchbox">
+                <form id="searchbox_004296503812929449051:cnncxej5ijo" action="http://www.google.com/search">
+                        <h3>Search Registrar site:</h3>
+                        <input id="srchbox-button" type="image" name="Search" value="Search" class="srchbutton" src="https://www.reg.uci.edu/images/btnGo2.gif" alt="Go" />
+                        <input type="hidden" name="cx" value="004296503812929449051:cnncxej5ijo" />
+                        <input type="hidden" name="cof" value="FORID:0" />
+                        <input id="srchbox-input" name="q" type="text" />
+                </form>
+        </div>  <!-- Close div id="srchbox" -->
+    </div>  <!-- Close div id="reg-banner-container" -->
+
+    <table id="reg-nav-bar" cellspacing="0" cellpadding="0" >
+      <tr>
+        <td><a href="http://www.uci.edu">UCI Home</a></td>
+        <td>:</td>
+        <td><a href="https://www.reg.uci.edu/perl/WebSoc">Schedule of Classes</a></td>
+        <td>:</td>
+        <td><a href="https://www.reg.uci.edu/registrar/soc/webreg.html">WebReg</a></td>
+        <td>:</td>
+        <td><a href="https://www.reg.uci.edu/access/student/welcome/">StudentAccess</a></td>
+        <td>:</td>
+        <td><a href="https://www.reg.uci.edu/webadmin/staff/welcome/">WebAdmin</a></td>
+      </tr>
+    </table>
+
+            <div align="center">
+                <table width="600px">
+                    <tr>
+                        <td style="font-size: 36px" align="center">
+                            Course Prerequisites
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 14px" align="center">
+                            Certain courses at UCI have prerequisites that must be satisfied before enrolling in the course.
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 14px" align="left">
+                            <ul>
+                                <li>Use the search tool below to determine what prerequisites, if any, are required before enrolling in a particular course.
+                                <li>Prerequisites are provided by departments.
+                                <li>When available, prerequisite equivalencies at other institutions are linked.
+                                <li>The <a href="http://www.editor.uci.edu/catalogue/">UCI General Catalogue</a> lists all approved courses and their prerequisites.
+                                <li>Courses with co-requisites require students to add the co-requisite requirement before adding the desired course.
+                                <li>Exceptions to prerequisites may be made by academic advisors. See the <a href="https://www.reg.uci.edu/addl/advising.html">advising office</a> of your major for more information.
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+                 <div align="center">
+                     <table>
+                        <tr>
+                            <td class="error_message" align="center">
+                                Error opening log file.<br>File status = 9A<br>Please contact the <a href="mailto:registrar@uci.edu">Registrar's Office</a>.
+                            </td>
+                        </tr>
+                     </table>
+                 </div>    <!-- HTML for Registrar contact info in footer. -->
+    <!-- Used with "/css/banner750.css"  -->
+
+    <div id="contact-footer">
+        <div id="footer-office-title">University Registrar</div>
+        <ul><li class="reg-email"><a href="mailto:registrar@uci.edu">registrar@uci.edu</a></li>
+            <li>&bull;</li>
+            <li>ph: (949) 824-6124</li>
+            <li>&bull;</li>
+            <li>fax: (949) 824-7896</li>
+        </ul>
+        <ul><li>University of California, Irvine</li>
+            <li>&bull;</li> <li>215 Aldrich Hall</li>
+            <li>&bull;</li> <li>Irvine, CA 92697-4975</li>
+        </ul>
+        <address id="footer-copyright">
+            &copy; 2007 The Regents of the University of California.
+            &nbsp; All Rights Reserved.
+        </address>
+    </div>
+
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </body>
+            </html>
