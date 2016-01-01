@@ -1,0 +1,1294 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>undergraduate course listing @ the bren school of information and computer sciences</title>
+
+
+<meta content="Fri, 11 Dec 2015 08:42:44 -0320" name="date"/>
+<link href="../../bin/styles/stylesheet_nosidebar.css" rel="stylesheet" type="text/css"/><script type="text/javascript">
+<!-- 
+function clear_textbox()
+{
+if (document.searchform.q.value == "Search ICS")
+document.searchform.q.value = "";
+} 
+-->
+</script>
+</head>
+<body>
+
+<h1 class="ahem">This site will look much better in a browser that supports <a href="http://www.webstandards.org/upgrade/" title="Download a browser that complies with Web standards.">web standards</a>, but it is accessible to any browser or Internet device.</h1>
+ <div id="wrapper"><script type="text/javascript">
+
+sfHover = function() {
+    var sfEls = document.getElementById("navcontainer").getElementsByTagName("LI");
+    for (var i=0; i<sfEls.length; i++) {
+        sfEls[i].onmouseover=function() {
+            this.className+=" sfhover";
+        }
+        sfEls[i].onmouseout=function() {
+            this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+        }
+    }
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+</script>
+
+
+
+
+
+      <style>
+
+
+         #school_header {
+             background-image: url('http://www.ics.uci.edu/bin/img/ICSWebBanner2014-bigUCI.png');
+             background-repeat: no-repeat;
+             background-color: #0064a4;
+             margin-bottom: 0;
+             width: 760px;
+             height: 70px;
+             position: relative;
+         }
+
+
+         #school_link {
+                 display: block;
+                 position: absolute;
+                 width: 100%; height: 100%;
+         }
+
+
+         #uci_link {
+            display: block;
+            position: absolute;
+
+            height: 45px;
+            width: 109px;
+            left: 18px;
+            top: 7px;
+
+         }
+
+
+      </style>
+
+
+
+      <div id="school_header">
+
+         <a id="school_link" href="http://www.ics.uci.edu/" TITLE="Donald Bren School of Information and Computer Sciences"></a>
+
+         <a id="uci_link" href="http://www.uci.edu/" TITLE="University of California, Irvine"></a>
+
+      </div>
+
+
+
+
+
+
+
+
+
+    <div id="navcontainer">
+
+                
+            <ul>
+                
+                <li>
+                
+                    <a href='/about/' title='about'>ABOUT</a>
+
+                    
+                    <ul>
+                        <li><a href='/about/'>About the School</a></li>
+                        <li><a href='/about/about_deanmsg.php'>Dean's Welcome</a></li>
+                        <li><a href='/about/about_factsfigures.php'>Facts and Figures</a></li>
+                        <li><a href='/about/brenhall/index.php'>Donald Bren Hall</a></li>
+                        <li><a href='/about/visit/index.php'>Visit the Bren School</a></li>
+                        <li><A HREF='/about/equity/'>Equity & Diversity</A></Lli>
+                        <LI><a href='/about/about_contact.php'>Contact Us</a></LI>
+                        
+                    </ul>               
+                </li>
+                
+                <li>
+                
+                    <a href='/dept/' title='departments'> DEPARTMENTS </a>
+                    
+
+                    <ul>
+                        <li><a href='http://www.cs.uci.edu'>Computer Science</a></li>
+                        <li><a href='http://www.informatics.uci.edu'>Informatics</a></li>
+                        <li><a href='http://www.stat.uci.edu'>Statistics</a></li>
+                    </ul>               
+                </li>
+                
+                <li>
+                
+                    <a href='/faculty/area/' title='research'> RESEARCH </a>
+                
+                
+                    <ul>
+                        <li><a href='/faculty/area/'>Research Areas</a></li>
+                        <li><a href='/faculty/centers/'>Research Centers</a></li>
+                        <li><a href='/faculty/highlights/'>Research Highlights</a></li>
+                    </ul>
+                </li>
+                
+                
+                
+                <li>
+                
+                    <span id=specialborder><a href='#' title='education'>EDUCATION</a></span>
+                    
+
+                    <ul>
+                        <li><a href='/grad/'>Graduate &#x25B8; </a>
+                        
+                            <ul>                        
+                            <li><a href='/grad/index'>Contact</a></li>
+                            <li><a href='/grad/admissions/index'>Prospective Students</a></li>
+                            <li><a href='/grad/degrees/index'>Programs of Study</a></LI>
+                            <li><a href='/grad/degrees/degrees_MSOverview'>M.S. Degree Overview</a></li>
+                            <li><a href='/grad/degrees/degrees_PhDOverview'>Ph.D. Degree Overview</a></li>
+                            <li><a href='/grad/courses/index'>Academic Year Plan</a></li>
+                            <li><a href='/grad/forms/index'>Forms</a></li>
+                            <li><a href='/grad/policies/index'>Policies</a></li>
+                            <li><a href='/grad/funding/index'>Funding &amp; Housing</a></li>
+                            <li><a href='/computing/account/new'>Computing Support</a></li>
+                            <li><a href='/grad/resources'>Campus Resources</a></li>
+                            <li><a href='/about/visit/index'>Visit the Bren School</a></li>
+                            <li><a href='http://www.ics.uci.edu/bin/pdf/grad/Graduate%20Student%20Handbook%20F14-15.pdf'>Graduate Student Handbook</a></li>
+                            </ul>
+
+                        </li>
+                        
+                        <li><a href='/ugrad/'>Undergraduate &#x25B8; </a>
+                        
+                            <ul>
+                            <li><a href='/ugrad/index'>Contact</a></li>
+                            <li><a href='/ugrad/sao/index'>Academic Advising</a></li>
+                            <li><a href='/ugrad/courses/index'>Academic Year Plan</a></li>
+                            <li><a href='/ugrad/QA_Petitions'>Petitions</a></li>
+                            <li><a href='/ugrad/degrees/index.php'>ICS Majors</a></li>
+                            <li><a href='/ugrad/degrees/Minors'>ICS Minors</a></li>
+
+                            <li><a href='/ugrad/policies/Academic_Integrity'>Policies: Academic Integrity</a></li>
+                            <li><a href='/ugrad/policies/Academic_Standing'>Policies: Academic Standing</a></li>
+                            <li><a href='/ugrad/policies/Add_Drop_ChangeOption'>Policies: Add, drop, &amp; change options</a></li>
+                            <li><a href='/ugrad/policies/Course_Outside_UCI'>Policies: Coursework outside UCI</a></li>
+                            <li><a href='/ugrad/policies/Grade_Options'>Policies: Grade policy</a></li>
+                            <li><a href='/ugrad/policies/Laptop_ComputerUse'>Policies: Laptop &amp; computer use</a></li>
+                            <li><a href='/ugrad/policies/Withdrawal_Readmission'>Policies: Withdrawal/Readmission</a></li>
+
+                              <li><a href='/ugrad/QA_Graduation'>Graduation</a></li>
+                              <li><a href='/ugrad/resources/index'>ICS Student Life</a></li>
+                              <li><a href='/computing/account/new'>Computing Support</a></li>
+                            </ul>
+                        </li>
+
+                        
+                        <li><a href='http://www.ics.uci.edu/prospective'>Prospective Undergrad</a></li>
+
+
+                        <li><a href='/community/scholarships/index'>Scholarships & Fellowships</a></li>
+                        
+                                                    
+                    </ul>               
+                </li>
+
+    
+                <li>
+                    
+                    <a href='#' title='people'>PEOPLE</a>                      
+                    
+                
+                    <ul>
+                        <li><a href='/faculty/'>Faculty</a></li>
+                        <li><a href='/about/search/index.php'>Staff</a></li>
+                        <li><a href='/about/search/search_graduate_all.php'>Graduate Students</a></li>
+                    </ul>   
+                </li>
+                                
+                
+                <li> 
+                
+                    <a href='#' title='community'>COMMUNITY</a>
+                    
+                    
+                    <ul>
+                        <li><a href='/community/alumni/'>Alumni</a></li>
+                        <li><a href='/community/friends/'>Friends</a></li>
+                        <li><a href='/community/news/'>News</a></li>
+
+                        <li><a href='http://www.parents.uci.edu/'>UCI Parents</a></li>
+
+                    </ul>   
+                </li>
+
+                <li>
+                
+                    <a href='/involved/' title='get involved'>GET INVOLVED</a>
+                
+                
+                    <ul>
+                    
+                            <LI><A HREF='http://www.uadv.uci.edu/DonaldBrenSchoolOfICSAnnualGiving'>Make a Gift</A></LI>
+                            <LI><A HREF='/involved/leadership_council'>Leadership Council</A></LI>
+                            <LI><A HREF='/involved/corporate_partner'>Corporate Partners</A></LI>
+                            <LI><A HREF='/involved/project_class'>Sponsor Projects</A></LI>
+                            <LI><A HREF='/community/events/competition/'>Product Development Competition</A></LI>
+                            <LI><A HREF='https://ucirvine-csm.symplicity.com/index.php/pid700104'>ZotLink Jobs & Internships</A></LI>
+                            
+                    </ul>               
+                </li>
+
+
+                 
+                                 
+
+            </ul>
+
+<style type='text/css'>@import url('/bin/icssearchstyle/css/icssearch.css');</style>
+<script src='/bin/icssearchstyle/js/icssearch.js' type='text/javascript'></script>
+<script src='/bin/icssearchstyle/js/icssearchform.js' type='text/javascript'></script>
+
+
+            
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+    <div class="bread" id="breadcrumbs"><!-- starting function breadcrumb_nav --><!-- done with function breadcrumb_nav, going to return [<A HREF="/">Bren school home</A> &gt; <a href="http://www.ics.uci.edu/ugrad/">Undergraduate</a> &gt; <a href="http://www.ics.uci.edu/ugrad/courses/">Courses</a>] --><A HREF="/">Bren school home</A> &gt; <a href="http://www.ics.uci.edu/ugrad/">Undergraduate</a> &gt; <a href="http://www.ics.uci.edu/ugrad/courses/">Courses</a></div>
+<div id="content"><a id="startcontent" name="startcontent"></a> 
+<div id="content_title"></div>
+<blockquote>
+<div id="content_text">
+
+   <!-- /bin/inc/course_info/listing.inc.php -->   
+
+<!-- SELECT distinct Schedule.year, Courses.course_id,  Courses.department,  Courses.number,  Courses.title,  Courses.description, UCInetID, quarter, quantity FROM Schedule INNER JOIN Courses ON  (Schedule.course_id = Courses.course_id or Courses.course_id in (select course_id from crosslist x where x.crossgroup in (select crossgroup from crosslist where course_id =Schedule.course_id) and x.course_id!=Schedule.course_id)) WHERE Schedule.year = '2015' AND Courses.department = 'INF'  AND exists (select 1 from published p where p.year=Schedule.year and p.quarter=Schedule.quarter and p.department=Courses.department) ORDER BY department asc, number asc -->
+<!--
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.1//EN'
+  'http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en'>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<title>Course listing @ the bren school of information and computer
+sciences</title>
+
+-->
+
+
+<link type='text/css' rel='stylesheet' media='all' href='/bin/course_info/css/stylesheet.css' />
+
+
+<link type='text/css' rel='stylesheet' media='all' href='/bin/course_info/css/datatables.css' />
+<script src='https://www.google.com/jsapi?key=ABQIAAAALV7K2qVO-8YOmzwVLb0u4xRJuSiWtK5WS3VBGTBybMjRD0OuShRESAHnqGx-a2DKb1j7sXQBAN_2Jw' type='text/javascript'></script>
+<script type='text/javascript'>
+  google.load('jquery', '1.4.4');
+</script>
+<script type='text/javascript' src='/bin/course_info/js/datatables.min.js'></script>
+<script type='text/javascript' src='/bin/course_info/js/auxiliary.js'></script>
+<script type='text/javascript' id='js'>
+//<![CDATA[
+jQuery.fn.dataTableExt.oSort['natural-asc']  = function(a,b) {
+    return naturalSort(a,b);
+};
+
+jQuery.fn.dataTableExt.oSort['natural-desc'] = function(a,b) {
+    return naturalSort(a,b) * -1;
+};
+
+$(document).ready(function() {
+  var oTable = $('#listing').dataTable( {
+    "sDom": '<"top"flpC<"clear">>rt<"bottom"i<"clear">>',
+    "oColVis": { "aiExclude": [ 0, 1, 2 ], "buttonText": "Quarter Visibility" },
+    "bPaginate": false,
+    "bAutoWidth": false,
+    "aoColumnDefs": [
+
+   
+    { "bVisible": true, "aTargets": [  2 ] },
+    {  "sWidth": "20%","aTargets":[1] },
+    { "bSortable": true, "aTargets": [ 0 ] },
+    { "bSortable": false, "aTargets": [ '_all' ] },
+    { "sType": "html", "aTargets": [ 0 ] },
+   
+    ],
+     "aaSorting": [[0,"asc"]],
+    "oLanguage": { "sSearch": "Search all:" },
+    "fnDrawCallback": function() {
+    // make sure title rows match course row color
+    $('td.even').each( function () {
+      $(this).attr('class', $(this).parent().prev().attr('class'));
+    } );
+    $('td.odd').each( function () {
+      $(this).attr('class', $(this).parent().prev().attr('class'));
+    } );
+    // make sure bottom borders match
+    $('tr.even').each( function () {
+      $(this).contents('td').css( 'border-bottom', $(this).contents('td').first().css('border-bottom') );
+    } );
+    $('tr.odd').each( function () {
+      $(this).contents('td').css( 'border-bottom', $(this).contents('td').first().css('border-bottom') );
+    } );
+    }
+  } );
+
+  // set up per-column search
+
+  var asInitVals = new Array();
+
+  $('tfoot input').keyup( function () {
+    oTable.fnFilter( this.value, $(this).attr('name') );
+  } );
+
+  $('tfoot input').each( function (i) {
+    asInitVals[i] = this.value;
+  } );
+
+  $('tfoot input').focus( function () {
+    if ( this.className == "search_init" )
+      {
+        this.className = "";
+        this.value = "";
+      }
+  } );
+
+  $('tfoot input').blur( function (i) {
+    if ( this.value == "" )
+      {
+        this.className = "search_init";
+        this.value = asInitVals[$('tfoot input').index(this)];
+      }
+  } );
+
+  // hide summer column
+
+  oTable.fnSetColumnVis( 6, false );
+
+  // open all title rows
+
+ // $('table#listing tbody td img').each( function () {
+ //     openTitleRow(oTable, this.parentNode.parentNode);
+ //  } );
+
+  // Add event listener for opening and closing title rows
+  $('.openclose').click(function () {
+     id = $(this).attr('courseid');
+    if ( this.src.match('/bin/course_info/img/details-close.png') ) {
+      this.src = "/bin/course_info/img/details-open.png";
+      $('#title_'+id).remove();
+    }
+    else {
+      this.src = "/bin/course_info/img/details-close.png";
+        title=$('#link_'+id).attr('title');
+        $(this).parent().append($('<div/>',{
+            id:'title_'+id,
+            html:title,
+            text:title
+        }));
+
+    }
+  } );
+
+  // insert title toggle buttons
+  $('div.dataTables_options').prepend("<input id='showtitles' type='button' value='Show All Titles' />\n<input id='hidetitles' type='button' value='Hide All Titles' />\n");
+
+  $('#showtitles').click(function() {
+       showTitles();
+  } );
+
+  $('#hidetitles').click(function() {
+    $('table#listing tbody td img').each( function () {
+           if($(this).attr('src')!='/bin/course_info/img/details-open.png'){
+               id = $(this).attr('courseid');
+
+              this.src = "/bin/course_info/img/details-open.png";
+              $('#title_'+id).remove();
+          }
+    } );
+  } );
+
+   showTitles();
+
+
+});
+
+
+function showTitles(){
+  $('table#listing tbody td img').each( function () {
+     if($(this).attr('src')!='/bin/course_info/img/details-close.png'){
+            
+              id = $(this).attr('courseid');
+              $('#title_'+id).remove();
+              this.src = "/bin/course_info/img/details-close.png";
+               title=$('#link_'+id).attr('title');
+                $(this).parent().append($('<div/>',{
+                      id:'title_'+id,
+                      html:title,
+                      text:title
+                }));
+        }
+
+    } );
+}
+
+//]]>
+</script>
+
+<div id='content_minus_menu'>
+    <div id='content_title'>
+
+        Course Listing for 2015-16
+    </div>
+    <div class='information'>
+
+                <div class="note"><b>Note:</b>  This is a TENTATIVE schedule.  The course listings shown here are 
+        neither guaranteed, nor considered "final". Department Chairs may provide updated 
+        information regarding course offerings or faculty assignments throughout the year. 
+        Be sure to check this list regularly for new or revised information.<p></div>
+
+
+        
+        <form action='listing.php' method='get'>
+        <fieldset>
+        <legend>Filters</legend>
+        <div class='row'>
+        <label for='year'>Year:</label>
+        <select name='year' id='year'>
+
+        <option selected='selected' value='2015'>2015-16</option>
+<option value='2014'>2014-15</option>
+<option value='2013'>2013-14</option>
+<option value='2012'>2012-13</option>
+<option value='2011'>2011-12</option>
+<option value='2010'>2010-11</option>
+<option value='2009'>2009-10</option>
+<option value='2008'>2008-09</option>
+        </select>
+        <label for='level'>Level:</label>
+        <select name='level' id='level'>
+
+        <option selected='selected' value='ALL'>ALL</option>
+<option value='Graduate'>Graduate</option>
+<option value='Lower-Division'>Lower-Division</option>
+<option value='Undergraduate'>Undergraduate</option>
+<option value='Upper-Division'>Upper-Division</option>
+        </select>
+        <label for='department'>Department:</label>
+        <select name='department' id='department'>
+
+        <option value='ALL'>ALL</option>
+<option value='CS'>CS</option>
+<option value='CSE'>CSE</option>
+<option value='ECE'>ECE</option>
+<option value='EDUC'>EDUC</option>
+<option value='EECS'>EECS</option>
+<option value='ICS'>ICS</option>
+<option selected='selected' value='INF'>INF</option>
+<option value='MATH'>MATH</option>
+<option value='NetSys'>NetSys</option>
+<option value='SE'>SE</option>
+<option value='STATS'>STATS</option>
+<option value='US'>US</option>
+
+        </select>
+        </div>
+        <div class='row'>
+        <label for='program'>Core Classes for:</label>
+        <select name='program' id='program'>
+
+        <option selected='selected' value='ALL'>ALL</option>
+<optgroup label='Undergraduate'>
+<option value='0BMC'>Biomedical Computing</option>
+<option value='0BIM'>Business Information Management</option>
+<option value='0CGS'>Computer Game Science</option>
+<option value='0COMPSCI'>Computer Science</option>
+<option value='0CSE'>Computer Science and Engineering</option>
+<option value='0CSAlg'>CS-Algorithms</option>
+<option value='0CSAES'>CS-Architecture and Embedded Systems</option>
+<option value='0CSBIO'>CS-Bioinformatics</option>
+<option value='0CSI'>CS-Information</option>
+<option value='0CSIS'>CS-Intelligent Systems</option>
+<option value='0CSNS'>CS-Networked Systems</option>
+<option value='0CSSS'>CS-Systems and Software</option>
+<option value='0CSVC'>CS-Visual Computing</option>
+<option value='0IN4MATX'>Informatics</option>
+<option value='0I&amp;C SCI'>Information and Computer Science</option>
+
+        </optgroup>
+        <optgroup label='Graduate'>
+
+        <option value='1COMPSCI'>Computer Science</option>
+<option value='1IN4MATX'>Informatics</option>
+<option value='1NetSys'>Networked Systems</option>
+<option value='1STATS'>Statistics</option>
+        </optgroup>
+        </select>
+        <input id='button' type='submit' value='Submit' />
+        </div>
+        </fieldset>
+        </form>
+
+
+
+        
+    </div>
+    <div class='schedule'>
+
+                 <table id='listing'>
+            <thead>
+                <tr>
+                    <th scope='col' id='course' class='listing_header'><span class='nobr'>Course</span></th>
+                    <th scope='col' id='title' class='hidden'><span class='nobr'>Title</span></th>
+                    <th scope='col' id='description' class='hidden'><span class='nobr'>description</span></th>
+                    <th scope='col' id='fall' class='listing_header'><span class='nobr'>Fall 2015</span></th>
+                    <th scope='col' id='winter' class='listing_header'><span class='nobr'>Winter 2016 </span></th>
+                    <th scope='col' id='spring' class='listing_header'><span class='nobr'>Spring 2016 </span></th>
+                    <th scope='col' id='summer' class='listing_header'><span class='nobr'>Summer 2016 </span></th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th><input type='text' name='0' value='Search Courses' class='search_init' /></th>
+                    <th class='hidden'><input type='text' name='1' value='Search titles' class='search_init' /></th>
+                    <th class='hidden'><input type='text' name='2' value='Search descriptions' class='search_init' /></th>
+                    <th><input type='text' name='3' value='Search Fall' class='search_init' /></th>
+                    <th><input type='text' name='4' value='Search Winter' class='search_init' /></th>
+                    <th><input type='text' name='5' value='Search Spring' class='search_init' /></th>
+                    <th><input type='text' name='6' value='Search Summer' class='search_init' /></th>
+                </tr>
+            </tfoot>
+            <tbody>
+
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 101            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='270' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=270' id='link_270' title='Concepts in Programming Languages I'>INF 101</a>
+            </td>
+            <td class='hidden'>
+                   In-depth study of several contemporary programming languages stressing variety in data structures, operations, notation, and control. Examination of different programming paradigms, such as logic programming, functional programming and object-oriented programming; implementation strategies, programming environments, and programming style. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=alfaro'>Shannon  Alfaro</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 102            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='271' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=271' id='link_271' title='Concepts of Programming Languages II'>INF 102</a>
+            </td>
+            <td class='hidden'>
+                   In-depth study of major programming paradigms: imperative, functional, declarative, object-oriented, and aspect-oriented. Understanding the role of programming languages in software development and the suitability of languages in context. Domain-specific languages. Designing new languages for better software development support. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~lopes'>Cristina Lopes</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 113            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='273' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=273' id='link_273' title='Requirements Analysis and Engineering'>INF 113</a>
+            </td>
+            <td class='hidden'>
+                   Aims to equip students to develop techniques of software-intensive systems through successful requirements analysis techniques and requirements engineering. Students learn systematic process of developing requirements through co-operative problem analysis, representation, and validation. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=emilyo'>Emily Navarro</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 115            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='274' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=274' id='link_274' title='Software Testing, Analysis, and Quality Assurance'>INF 115</a>
+            </td>
+            <td class='hidden'>
+                   Aims to prepare students to develop high quality software through successful verification and validation techniques. Students learn the fundamental principles of software testing, how to test software, and how to ensure the thoroughness of testing to gain confidence in the correctness of the software.  SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~jajones'>James Jones</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 117            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='275' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=275' id='link_275' title='Project in Software System Design'>INF 117</a>
+            </td>
+            <td class='hidden'>
+                   Specification, design, construction, testing, and documentation of a complete software system. Special emphasis on the need for and use of teamwork, careful planning, and other techniques for working with large systems. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~ziv'>Hadar Ziv</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 121            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='279' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=279' id='link_279' title='Software Design I'>INF 121</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to application design: designing the overall functionality of a software application. Topics include general design theory, software design theory, and software architecture. Includes practice in designing and case studies of existing designs.  SEE CATALOGUE FOR PREREQUISITES.
+            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~andre'>Adriaan Van Der Hoek</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 122            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='280' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=280' id='link_280' title='Software Design II'>INF 122</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to implementation design: designing the internals of a software application. Topics include design aesthetics, design implementation, design recovery, design patterns, and component reuse. Includes practice in designing and case studies of existing designs.  SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=emilyo'>Emily Navarro</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 124            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='447' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=447' id='link_447' title='Internet Applications Engineering'>INF 124</a>
+            </td>
+            <td class='hidden'>
+                   Concepts in Internet applications
+engineering with emphasis on the Web. Peer-to-Peer and Interoperabilty.
+Topics include HTTP and REST, Remote Procedure/Method Calls,
+Web Services, data representations, content distribution networks, identity
+management, relevant W3C/IETF standards, and relevant new large-scale
+computing styles. Prerequisites: CS 132 or consent of instructor, and upperdivision
+standing. Same as CS 137.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=TBD'> TBD</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 125            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='282' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=282' id='link_282' title='Computer Game Development'>INF 125</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to the principles of interactive two- and three-dimensional computer game development. Concepts in computer graphics, algorithms, software engineering, art and graphics, music and sound, story analysis, and artificial intelligence are presented and are the basis for student work. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~frost'>Dan Frost</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 131            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='283' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=283' id='link_283' title='Human Computer Interaction'>INF 131</a>
+            </td>
+            <td class='hidden'>
+                   Presents basic principles of human-computer interaction (HCI). Introduces students to user interface design techniques, design guidelines, and usability testing. Students gain the ability to design and evaluate user interfaces and become familiar with some of the outstanding research problems in HCI. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~kobsa'>Alfred Kobsa</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 132            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='284' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=284' id='link_284' title='Project in Human-Computer Interaction Requirements and Evaluation'>INF 132</a>
+            </td>
+            <td class='hidden'>
+                   Students undertake significant projects in the elicitation and specification of HCI requirements and the thorough evaluation of user interfaces.  SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~kobsa'>Alfred Kobsa</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 133            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='285' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=285' id='link_285' title='User Interaction Software'>INF 133</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to human-computer interaction programming. Emphasis on current tools, standards, methodologies for implementing effective interaction designs. Widget toolkits, web interface programming, geo-spatial and map interfaces, mobile phone interfaces. Strategies for evaluation of user interfaces.  SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=plumsdai'>Paul J Lumsdaine</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 141            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='287' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=287' id='link_287' title='Information Retrieval'>INF 141</a>
+            </td>
+            <td class='hidden'>
+                   An introduction to information retrieval including indexing, retrieval, classifying, and clustering text and multimedia documents. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=bbidyuk'>Bozhena Bidyuk</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 143            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='288' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=288' id='link_288' title='Information Visualization'>INF 143</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to interactive visual interfaces for large datasets, and to principles of human visual perception and human computer interaction that inform their design. Various applications for data analysis and monitoring are discussed. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~golson'>Gary Olson</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 148            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='289' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=289' id='link_289' title='Project in Ubiquitous Computing'>INF 148</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to ubiquitous computing research methods, tools, and techniques. Prototyping, design, and evaluation of physical computing applications, smart environments, embedded systems, and future computing scenarios. Includes hands-on in-class laboratory exercises.  SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=ddenenbe'>Darren A. Denenberg</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 151            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='290' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=290' id='link_290' title='Project Management'>INF 151</a>
+            </td>
+            <td class='hidden'>
+                   Introduces theoretical and practical aspects of project management. Topics include organizational theory, group behavior, project management skills, case studies, personal and group productivity tools, management of distributed work, stakeholders, consultants, and knowledge management. Students do a project exercise. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~gmark'>Gloria Mark</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 153            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='291' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=291' id='link_291' title='Computer-Supported Cooperative Work'>INF 153</a>
+            </td>
+            <td class='hidden'>
+                   Introduces concepts and principles of collaborative systems. Topics may include shared workspaces, group interaction, workflow, architectures, interaction between social and technical features of group work, and examples of collaborative systems used in real-world settings. Students develop a simple collaborative application. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=khpine'>Kathleen Hammond Pine</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 161            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='292' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=292' id='link_292' title='Social Analysis of Computerization'>INF 161</a>
+            </td>
+            <td class='hidden'>
+                   Introduction of computerization as a social process. Examines the social opportunities and problems raised by new information technologies, and the consequences of different ways of organizing. Topics include computerization and work life, privacy, virtual communities, productivity paradox, systems risks. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=ddenenbe'>Darren A. Denenberg</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 162            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='293' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=293' id='link_293' title='Organizational Information Systems'>INF 162</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to role of information systems in organizations, components and structure of organizational information systems, and techniques used in information systems analysis, design, and implementation. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=mbietz'>Matthew J. Bietz</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 163            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='295' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=295' id='link_295' title='Project in the Social and Organizational Impacts of Computing'>INF 163</a>
+            </td>
+            <td class='hidden'>
+                   Students undertake projects intended to gather and analyze data from situations in which computers are used, organize and conduct experiments intended to test hypotheses about impacts, and explore the application of concepts learned in previous courses. SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=mbietz'>Matthew J. Bietz</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 171            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='297' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=297' id='link_297' title='Introduction to Medical Informatics'>INF 171</a>
+            </td>
+            <td class='hidden'>
+                   Broad overview of Medical Informatics for students with varied backgrounds. Electronic medical records, online resources, mobile technologies, patient safety, and computational design. Legal, ethical, and public policy issues. Health systems management. Evaluation and fieldwork for health systems.  SEE CATALOGUE FOR PREREQUISITES.            </td>
+                        <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=khpine'>Kathleen Hammond Pine</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 172            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='452' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=452' id='link_452' title='Project in Health Informatics'>INF 172</a>
+            </td>
+            <td class='hidden'>
+                   Students undertake significant quarter-long projects related to health informatics. Topics may include field evaluations of health care technologies, prototypes, iterative design, and system implementations. Prerequisite: Informatics 171.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=khpine'>Kathleen Hammond Pine</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 190            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='483' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=483' id='link_483' title='Special Topics in Informatics'>INF 190</a>
+            </td>
+            <td class='hidden'>
+                   May be repeated for credit if title or topic varies. Prerequisites vary.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=TBD'> TBD</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 191A            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='484' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=484' id='link_484' title='Senior Design Project '>INF 191A</a>
+            </td>
+            <td class='hidden'>
+                   Group supervised project in which students analyze, specify, design, construct, evaluate, and adapt a significant information processing system. Topics include team management, professional ethics, and systems analysis. Prerequisites for 191A: Informatics 121, 131, 151; either Informatics 161 as a prerequisite or Informatics 123 as a corequisite; and upper-division standing; for 191B: Informatics 191A; for 191C: Informatics 191B. In-progress grading for 191B only.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~ziv'>Hadar Ziv</a> <br />&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=ddenenbe'>Darren A. Denenberg</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 191B            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='485' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=485' id='link_485' title='Senior Design Project'>INF 191B</a>
+            </td>
+            <td class='hidden'>
+                   Group supervised project in which students analyze, specify, design, construct, evaluate, and adapt a significant information processing system. Topics include team management, professional ethics, and systems analysis. Prerequisites for 191A: Informatics 121, 131, 151; either Informatics 161 as a prerequisite or Informatics 123 as a corequisite; and upper-division standing; for 191B: Informatics 191A; for 191C: Informatics 191B. In-progress grading for 191B only.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~ziv'>Hadar Ziv</a> <br />&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=ddenenbe'>Darren A. Denenberg</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 201            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='303' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=303' id='link_303' title='Research Methodology for Informatics'>INF 201</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to strategies and idioms of research in informatics. Includes examination of issues in scientific inquiry, qualitative and quantitative methods, and research design. Both classic texts and contemporary research literature are read and analyzed.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~mmazmani'>Melissa Mazmanian</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 203            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='304' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=304' id='link_304' title='Qualitative Research Methods in Information Systems'>INF 203</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to qualitative research methods used to study computerization and information systems, such as open-ended interviewing, participant observation, and ethnography. Studies of the methods in practice through examination of research literature. Prerequisite: Informatics 251 or 261.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~nardi'>Bonnie Nardi</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 205            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='305' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=305' id='link_305' title='Quantitative Research Methods in Information Systems'>INF 205</a>
+            </td>
+            <td class='hidden'>
+                   Quantitative research methods used to study computerization and information systems. Design of instruments, sampling, sample sizes, and data analysis. Validity and reliability. Longitudinal versus cross-sectional designs. Analysis of secondary data. Studies of the methods through examination of research literature. Prerequisites: basic knowledge of elementary statistics; Informatics 251 or 261.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~gmark'>Gloria Mark</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 207S            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='491' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=491' id='link_491' title='Doctoral Seminar on Research and Writing'>INF 207S</a>
+            </td>
+            <td class='hidden'>
+                   Doctoral seminar centered on original research and writing. Provides a chance for doctoral students at all levels to present original work, brainstorm ongoing issues, and learn to provide and receive critical feedback from peers. Prerequisite: consent of instructor. Satisfactory/Unsatisfactory only. May be repeated for credit as topics vary.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~mmazmani'>Melissa Mazmanian</a> <br />&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~mmazmani'>Melissa Mazmanian</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 209S            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='308' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=308' id='link_308' title='Seminar in Informatics'>INF 209S</a>
+            </td>
+            <td class='hidden'>
+                   Current research and research trends in Informatics. Forum for presentation and criticism by students of research work in progress. May be repeated for credit.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~jsolson'>Judy Olson</a> <br />&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~jsolson'>Judy Olson</a> <br />&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~jsolson'>Judy Olson</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 211            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='309' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=309' id='link_309' title='Software Engineering'>INF 211</a>
+            </td>
+            <td class='hidden'>
+                   Study of the concepts, methods, and tools for the analysis, design, construction, and measurement of complex software-intensive systems. Underlying principles emphasized. State-of-the-art software engineering and promising research areas covered, including project management.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~jajones'>James Jones</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 214            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='479' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=479' id='link_479' title='Requirements Engineering and Specification '>INF 214</a>
+            </td>
+            <td class='hidden'>
+                   Study of rigorous techniques in requirements engineering - requirements definition phase of software development - with focus on modeling and specification.  Topics include notations and models for requirements specification; and methods, tools and processes for software requirements elicitation, representation, analysis.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=TBD'> TBD</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 215            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='311' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=311' id='link_311' title='Software Analysis and Testing'>INF 215</a>
+            </td>
+            <td class='hidden'>
+                   Studies techniques for developing confidence in software from traditional testing schemes to integrated, multitechnique analytic approaches. Considers strengths and weaknesses and explores opportunities for synergistic technique application. Emphasis is on approaches integrated into the software process.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~jajones'>James Jones</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 219            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='313' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=313' id='link_313' title='Software Environments'>INF 219</a>
+            </td>
+            <td class='hidden'>
+                   Study of the requirements, concepts, and architectures of comprehensive, integrated, software development and maintenance environments. Major topics include process support, object management, communication, interoperability, measurement, analysis, and user interfaces in the environment context.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=TBD'> TBD</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 221            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='314' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=314' id='link_314' title='Software Architecture'>INF 221</a>
+            </td>
+            <td class='hidden'>
+                   Study of the concepts, representation techniques, development methods, and tools for architecture-centric software engineering. Topics include domain-specific software architectures, architectural styles, architecture description languages, software connectors, and dynamism in architectures.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~ziv'>Hadar Ziv</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 225            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='492' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=492' id='link_492' title='Information Retrieval, Filtering, and Classification'>INF 225</a>
+            </td>
+            <td class='hidden'>
+                               </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~lopes'>Cristina Lopes</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 231            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='316' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=316' id='link_316' title='User Interface Design and Evaluation'>INF 231</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to the design and evaluation of user interfaces, with an emphasis on methodology. Cognitive principles, design life cycle, on-line and off-line prototyping techniques. Toolkits and architectures for interactive systems. Evaluation techniques, including heuristic and laboratory methods.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~kobsa'>Alfred Kobsa</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 232            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='317' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=317' id='link_317' title='Research in Human-Computer Interaction'>INF 232</a>
+            </td>
+            <td class='hidden'>
+                   Introduction to contemporary topics in human-computer interaction, including methods, technologies, design and evaluation. Emerging application domains and their challenges to traditional research methods. Advanced architectures and technologies. Critical Issues. Some familiarity with HCI principles expected.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.gillianhayes.com'>Gillian Hayes</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 241            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='320' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=320' id='link_320' title='Introduction to Ubiquitous Computing'>INF 241</a>
+            </td>
+            <td class='hidden'>
+                   The disappearing computer paradigm. Differences to the desktop computing model: applications, interaction in augmented environments, security, alternate media, small operating systems, sensors, and embedded systems design. Evaluation by project work and class participation. Same as CS 248A.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~kobsa'>Alfred Kobsa</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 244            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='322' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=322' id='link_322' title='Introduction to Embedded and Ubiquitous Systems'>INF 244</a>
+            </td>
+            <td class='hidden'>
+                   Embedded and ubiquitous system technologies including processors, DSP, memory, and software. System interfacing basics; communication strategies; sensors and actuators, mobile and wireless technology. Using pre-designed hardware and software components. Design case studies in wireless, multimedia, and/or networking domains. Prerequisites: B.S. degree in computer science; or ICS 51, CS 152; Mathematics 3A or 6G or ICS 6D; CS 161. Same as CS 244.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~dutt'>Nikil Dutt</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 251            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='323' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=323' id='link_323' title='Computer-Supported Cooperative Work'>INF 251</a>
+            </td>
+            <td class='hidden'>
+                   The role of information systems in supporting work in groups and organizations. Examines various technologies designed to support communication, information sharing, and coordination. Focuses on behavioral and social aspects of designing and using group support technologies.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~gmark'>Gloria Mark</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 261            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='324' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=324' id='link_324' title='Social Analysis of Computing'>INF 261</a>
+            </td>
+            <td class='hidden'>
+                   The social and economic impacts of computing and information technologies on groups, organizations, and society. Topics include computerization and changes in the character of work, social control and privacy, electronic communities, and risks of safety-critical systems to people.            </td>
+                        <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=gbowker'>Geoffrey C Bowker</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 263            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='325' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=325' id='link_325' title='Computerization, Work, and Organizations'>INF 263</a>
+            </td>
+            <td class='hidden'>
+                   Selected topics in the influence of computerization and information systems in transforming work and organizations. Theories of organization and organizational change. Processes by which diverse information technologies influence changes in work and organizations over short and long time periods. Prerequisite: Informatics 251 or 261.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~mmazmani'>Melissa Mazmanian</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 267            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='328' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=328' id='link_328' title='Digital Media and Society'>INF 267</a>
+            </td>
+            <td class='hidden'>
+                   Selected topics in the technological and social aspects of online interactions, and policy including online games, social media, electronic activism, e-commerce, and digital libraries. Media-theoretic approaches to digital technology. Architectures, infrastructure considerations, and their consequences.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~nardi'>Bonnie Nardi</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 291S            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='494' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=494' id='link_494' title='Literature Survey in Software Engineering'>INF 291S</a>
+            </td>
+            <td class='hidden'>
+                   Reading and analysis of relevant literature in Software Engineering under the direction of a faculty member. May be repeated for credit as topics vary.            </td>
+                        <td class='instruction'><a href='http://www.ics.uci.edu/~andre'>Adriaan Van Der Hoek</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://www.ics.uci.edu/~andre'>Adriaan Van Der Hoek</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='even'>
+          <td class='hidden'>
+                INF 295            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='341' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=341' id='link_341' title='Special Topics in Informatics'>INF 295</a>
+            </td>
+            <td class='hidden'>
+                   May be repeated for credit as topics vary.            </td>
+                        <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=tanenbaj'>Joshua G. Tanenbaum</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                <tr class='odd'>
+          <td class='hidden'>
+                INF 043            </td>
+            <td class='name'>
+                <img class='openclose inline' courseid='346' src='/bin/course_info/img/details-open.png' />
+                 <a href='details.php?id=346' id='link_346' title='Introduction to Software Engineering'>INF 043</a>
+            </td>
+            <td class='hidden'>
+                   Concepts, methods, and current practice of software engineering. Large-scale software production, software life cycle models, principles and techniques for each stage of development. SEE CATALOGUE FOR PREREQUISITES. Only one course from In4matx 43, ICS 52, and ICS 105 may be taken for credit.            </td>
+                        <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=emilyo'>Emily Navarro</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+            <td class='instruction'><a href='http://directory.uci.edu/index.php?uid=emilyo'>Emily Navarro</a> <br /><a href='http://www.ics.uci.edu/~frost'>Dan Frost</a> <br />&nbsp;</td>
+            <td class='instruction'>&nbsp;</td>
+        </tr>
+                   </tbody>
+        </table>
+        
+    </div>
+
+
+    
+    
+</div>
+
+</div>
+</blockquote>
+</div>
+<div id="links_bottom"><div style="float: left; margin-right: 1em; notmargin-left: 1em; border: 0px dotted grey;"><form name="quicklinksform"><span style="color: #0064a4; font-weight: bold; font-size: 13px;">Quick Links </span><select name="linkselect" onchange="location.href=quicklinksform.linkselect.options[selectedIndex].value">
+<option value="#">- select a page -</option>
+<option value="/computing/index.php">Computing support</option>
+<option value="http://www.cs.uci.edu/research/seminarseries/">CS Seminar Series</option>
+<option value="/employment/">Employment</option>
+<option value="/about/facilities/index.php">Facilities</option>
+<option value="/about/search/index.php">Find faculty and staff</option>
+<option value="/supportICS">Giving to the Bren School</option>
+<option value="/grad/degrees/index.php">Graduate degrees</option>
+<option value="/about/kfflab/index.php">Kay Family Foundation Lab</option>
+<option value="/community/friends/proj125/index.php">Project ICS</option>
+<option value="/prospective">Prospective undergraduates</option>
+<option value="/about/about_safety.php">Safety procedures</option>
+<option value="/ugrad/degrees/index.php">Undergraduate degrees</option>
+</select></form></div>
+<div id="socmed_icons" style="float: right;"><a href="http://vimeo.com/ucibrenics"><img alt="Vimeo" border="0" class="icon32" src="../../bin/img/logos/socialmedia/vimeo.png"/></a> <a href="http://ucibrenics.tumblr.com/"><img alt="Tumblr" border="0" class="icon32" src="../../bin/img/logos/socialmedia/tumblr.png"/></a> <a href="http://plus.google.com/107018281301622394010/posts"><img alt="Google+" border="0" class="icon32" src="../../bin/img/logos/socialmedia/googleplus.png"/></a> <a href="http://youtube.com/UCIBrenICS"><img alt="YouTube" border="0" class="icon32" src="../../bin/img/logos/socialmedia/youtube.png"/></a> <a href="http://flickr.com/BrenSchool"> <img alt="Flickr" border="0" class="icon32" src="../../bin/img/logos/socialmedia/flickr.png"/></a> <a href="http://twitter.com/UCIbrenICS"> <img alt="Twitter" border="0" class="icon32" src="../../bin/img/logos/socialmedia/twitter.png"/></a> <a href="http://instagram.com/ucibrenics/"> <img alt="Instagram" border="0" class="icon32" src="../../bin/img/logos/socialmedia/instagram.png"/></a> <a href="http://facebook.com/UCIBrenICS"> <img alt="Facebook" border="0" class="icon32" src="../../bin/img/logos/socialmedia/facebook.png"/></a></div>
+<div style="clear: both;"></div></div>
+<div id="footer"><a href="http://www.uci.edu/copyright.php">Copyright Inquiries</a> |
+   <a href="http://www.uci.edu/cgi-bin/phonebook">UCI Directory</a> |
+   <a href="http://intranet.ics.uci.edu/">Intranet</a> |
+   
+   <!-- <a href="http://www.ics.uci.edu/sitemap.php">Site Map</a> | -->
+ 
+  <a href="mailto: i%63%73%77%65%62m%61s%74%65r@%69c%73%2e%75c%69%2eedu">icswebmaster</a></div>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-605898-1");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>

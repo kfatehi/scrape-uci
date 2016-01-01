@@ -1,0 +1,17 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "date": "Fri, 01 Jan 2016 16:21:20 GMT",
+    "server": "Apache/2.2.15 (CentOS)",
+    "transfer-encoding": "chunked",
+    "content-type": "text/html; charset=UTF-8"
+  },
+  "url": "http://www.ics.uci.edu:80/ugrad/courses/listing.php?level=ALL&program=ALL&department=INF&year=2015",
+  "time": 435,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "host": "www.ics.uci.edu"
+    }
+  }
+}

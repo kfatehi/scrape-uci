@@ -4,11 +4,7 @@ if (module.parent) {
   module.exports = scrapeUCI
 } else {
   var args = require('minimist')(process.argv)
-  scrapeUCI({
-    year: args.y || args.year,
-    period: args.p || args.period,
-    dept: args.d || args.dept
-  }, function(err, courses) {
+  scrapeUCI(args, function(err, courses) {
     if (err) throw err;
     else {
       var json = JSON.stringify(courses, null, 4);
