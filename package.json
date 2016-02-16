@@ -1,6 +1,6 @@
 {
   "name": "scrape-uci",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "`node index --year 2015 --period fall --prereqs`",
   "main": "index.js",
   "scripts": {
